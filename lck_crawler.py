@@ -2,7 +2,6 @@ import requests
 import json
 import os
 import time
-import timezone
 from datetime import datetime, timedelta, timezone# [수정] timedelta 추가
 from github import Github
 def update_lck_safe():
