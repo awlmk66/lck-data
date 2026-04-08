@@ -133,9 +133,11 @@ def upload_to_github(file_path):
 
 # --- 기존 코드 마지막 부분 ---
 if __name__ == "__main__":
-    # 1. 크롤링 수행 (현재 파이썬 파일이 있는 위치에 json 생성)
+    # 1. 크롤링 수행 (현재 위치에 lck_schedule.json 생성)
     update_lck_safe()
-    # 2. 생성된 파일 경로 설정
-    current_dir_file = "lck_schedule.json"
-    # 3. GitHub 업로드
-    upload_to_github(current_dir_file)
+    
+    # [수정] GITHUB_TOKEN이 없을 때(내 PC)만 직접 업로드 호출
+    # GitHub 서버(Actions)에서는 YAML 설정으로 자동 업로드할 것이므로 중복 호출 방지
+    if not os.getenv("GITHUB_ACTIONS"): 
+        save_path = "lck_schedule.json"
+        upload_to_github(save_path)
