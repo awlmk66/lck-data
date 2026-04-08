@@ -115,7 +115,7 @@ def upload_to_github(file_path):
         # 3. 내 리포지토리 불러오기
         # '아이디/리포지토리이름' 형식으로 직접 입력하는 것이 가장 안전합니다.
         # 예: "mygithub-id/lck-data"
-        repo = g.get_repo("사용자님의_깃허브_아이디/lck-data") 
+        repo = g.get_repo("awlmk66/lck-data") 
 
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
