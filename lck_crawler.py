@@ -67,8 +67,14 @@ def update_lck_safe():
                 # 시간 및 날짜 파싱 (기존 로직 동일)
                 ts = item.get('startTime') or item.get('startDate')
                 if isinstance(ts, int):
-                    dt = datetime.fromtimestamp(ts / 1000)
-                    date_val = dt.strftime("%Y.%m.%d")
+                    dt = datetime.fromtimestamp(ts / 1000, tz=timezone.utc).astimezone(kst)
+    
+                    # 요일 리스트 생성 및 추출
+                    days = ['월', '화', '수', '목', '금', '토', '일']
+                    weekday = days[dt.weekday()]
+                    
+                    # 날짜 뒤에 요일 추가 (%Y.%m.%d (%a) 형식)
+                    date_val = dt.strftime(f"%Y.%m.%d ({weekday})")
                     time_val = dt.strftime("%H:%M")
                 else:
                     raw_start = str(item.get('startDate', ""))
