@@ -54,8 +54,14 @@ def update_lck_safe():
                 # --- [수정 시작] 점수 데이터 가져오기 ---
                 # 네이버 API는 homeScore, awayScore 필드를 제공합니다.
                 # 경기가 아직 안 열렸을 경우를 대비해 기본값 ""을 설정합니다.
-                home_score = str(item.get('homeScore') if item.get('homeScore') is not None else "")
-                away_score = str(item.get('awayScore') if item.get('awayScore') is not None else "")
+                h_score_raw = item.get('homeScore') if item.get('homeScore') is not None else 0
+                a_score_raw = item.get('awayScore') if item.get('awayScore') is not None else 0
+                if h_score_raw == 0 and a_score_raw == 0:
+                    home_score = "-"
+                    away_score = "-"
+                else:
+                    home_score = str(h_score_raw)
+                    away_score = str(a_score_raw)
                 # --- [수정 끝] ---
 
                 # 시간 및 날짜 파싱 (기존 로직 동일)
