@@ -3,7 +3,7 @@ import json
 import os
 import time
 from datetime import datetime, timedelta # [수정] timedelta 추가
-from github import Github, Auth
+from github import Github
 def update_lck_safe():
     save_path = r"C:\Users\VIVO_book\AndroidStudioProjects\LCKSchedule2\app\src\main\assets\lck_schedule.json"
     
@@ -50,8 +50,15 @@ def update_lck_safe():
 
                 if not home_name or not away_name:
                     continue
+                
+                # --- [수정 시작] 점수 데이터 가져오기 ---
+                # 네이버 API는 homeScore, awayScore 필드를 제공합니다.
+                # 경기가 아직 안 열렸을 경우를 대비해 기본값 ""을 설정합니다.
+                home_score = str(item.get('homeScore') if item.get('homeScore') is not None else "")
+                away_score = str(item.get('awayScore') if item.get('awayScore') is not None else "")
+                # --- [수정 끝] ---
 
-                # 시간 및 날짜 파싱
+                # 시간 및 날짜 파싱 (기존 로직 동일)
                 ts = item.get('startTime') or item.get('startDate')
                 if isinstance(ts, int):
                     dt = datetime.fromtimestamp(ts / 1000)
@@ -62,11 +69,14 @@ def update_lck_safe():
                     date_val = raw_start[:10].replace("-", ".")
                     time_val = raw_start[11:16] if len(raw_start) > 16 else "00:00"
 
+                # [수정] 딕셔너리에 점수 추가
                 all_raw_matches.append({
                     "date": date_val,
                     "time": time_val,
                     "home": convert_team(home_name.lower()),
-                    "away": convert_team(away_name.lower())
+                    "away": convert_team(away_name.lower()),
+                    "homeScore": home_score, # 추가된 부분
+                    "awayScore": away_score  # 추가된 부분
                 })
             
             time.sleep(0.3)
@@ -96,58 +106,34 @@ def convert_team(name):
     if name in ["krx", "drx"] : return "drx"
     return name
 
-import os
-from github import Github, Auth # Auth를 추가로 임포트하세요
-
 def upload_to_github(file_path):
-    # 1. 환경 변수에서 토큰 가져오기
-    token = os.getenv("GH_TOKEN")
+    # 1. 아까 복사해둔 ghp_... 토큰을 입력하세요
+    access_token = os.getenv("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")
+    if not access_token:
+        access_token = "ghp_기존토큰"
+    g = Github(access_token)
     
-    if not token:
-        print("❌ 에러: GH_TOKEN 환경 변수를 찾을 수 없습니다.")
-        return
-
+    # 2. 본인의 "GitHub아이디/리포지토리이름"을 적으세요 (예: "user123/lck-data")
+    repo = g.get_user().get_repo("lck-data") 
+    
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    file_name = "lck_schedule.json" # 저장소에 올라갈 파일 이름
+    
     try:
-        # 2. 최신 권장 방식(Auth)으로 인증 객체 생성
-        auth = Auth.Token(token)
-        g = Github(auth=auth)
-
-        # 3. 내 리포지토리 불러오기
-        # '아이디/리포지토리이름' 형식으로 직접 입력하는 것이 가장 안전합니다.
-        # 예: "mygithub-id/lck-data"
-        repo = g.get_repo("awlmk66/lck-data") 
-
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        file_name = "lck_schedule.json"
-
-        # 4. 파일 업데이트 또는 생성
-        try:
-            contents = repo.get_contents(file_name)
-            repo.update_file(contents.path, "자동 일정 업데이트", content, contents.sha)
-            print("🚀 GitHub 업데이트 완료!")
-        except:
-            repo.create_file(file_name, "최초 일정 생성", content)
-            print("🚀 GitHub 파일 생성 완료!")
-            
+        # 기존 파일이 있는지 확인 (있다면 덮어쓰기 위해 sha 값이 필요함)
+        contents = repo.get_contents(file_name)
+        repo.update_file(contents.path, "LCK 일정 자동 업데이트", content, contents.sha)
+        print("🚀 GitHub 업데이트 완료!")
     except Exception as e:
-        print(f"❌ GitHub 작업 중 상세 에러 발생: {e}")
+        # 파일이 없다면 새로 생성
+        repo.create_file(file_name, "LCK 일정 최초 생성", content)
+        print("🚀 GitHub 파일 생성 완료!")
 
-# ... 하단 실행부 ...
+# --- 기존 코드 마지막 부분 ---
 if __name__ == "__main__":
-    # 1. 크롤링 함수를 실행하고 결과 경로를 받아옵니다. 
-    # (함수 이름이 update_lck_safe()가 맞는지 확인하세요!)
-    try:
-        current_path = update_lck_safe() 
-        
-        # 2. 업로드 함수 호출
-        # 방금 만든 'current_path' 변수를 그대로 전달합니다.
-        upload_to_github(current_path)
-        
-    except NameError:
-        # 혹시 위에서 변수명이 꼬였을 경우를 대비한 안전장치
-        # 파일이 현재 폴더에 "lck_schedule.json" 이름으로 저장된다면 아래처럼 직접 적어도 됩니다.
-        upload_to_github("lck_schedule.json")
-    except Exception as e:
-        print(f"❌ 실행 중 에러 발생: {e}")
+    update_lck_safe()
+    # 크롤링이 끝난 후 저장된 파일을 GitHub로 업로드!
+    save_path = r"C:\Users\VIVO_book\AndroidStudioProjects\LCKSchedule2\app\src\main\assets\lck_schedule.json"
+    upload_to_github(save_path)
