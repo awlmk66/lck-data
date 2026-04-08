@@ -3,7 +3,7 @@ import json
 import os
 import time
 from datetime import datetime, timedelta # [수정] timedelta 추가
-from github import Github
+from github import Github, Auth
 def update_lck_safe():
     save_path = r"C:\Users\VIVO_book\AndroidStudioProjects\LCKSchedule2\app\src\main\assets\lck_schedule.json"
     
@@ -97,13 +97,11 @@ def convert_team(name):
     return name
 
 def upload_to_github(file_path):
-    # GitHub Actions 환경에서 GH_TOKEN을 가져옵니다.
-    access_token = os.getenv("GH_TOKEN") 
+    access_token = os.getenv("GH_TOKEN")
     
-    if not access_token:
-        # 만약 로컬 PC에서 테스트할 때를 위해 기존 토큰을 남겨둘 수도 있습니다.
-        access_token = "ghp_기존_토큰_값"
-    g = Github(access_token)
+    # 최신 방식(Auth.Token)으로 변경
+    auth = Auth.Token(access_token)
+    g = Github(auth=auth)
     
     # 2. 본인의 "GitHub아이디/리포지토리이름"을 적으세요 (예: "user123/lck-data")
     repo = g.get_user().get_repo("lck-data") 
