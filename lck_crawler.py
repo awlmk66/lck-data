@@ -97,10 +97,12 @@ def convert_team(name):
     return name
 
 def upload_to_github(file_path):
-    # 1. 아까 복사해둔 ghp_... 토큰을 입력하세요
-    access_token = os.getenv("GH_TOKEN")
+    # GitHub Actions 환경에서 GH_TOKEN을 가져옵니다.
+    access_token = os.getenv("GH_TOKEN") 
+    
     if not access_token:
-        access_token = "ghp_기존토큰"
+        # 만약 로컬 PC에서 테스트할 때를 위해 기존 토큰을 남겨둘 수도 있습니다.
+        access_token = "ghp_기존_토큰_값"
     g = Github(access_token)
     
     # 2. 본인의 "GitHub아이디/리포지토리이름"을 적으세요 (예: "user123/lck-data")
