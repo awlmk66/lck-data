@@ -96,33 +96,46 @@ def convert_team(name):
     if name in ["krx", "drx"] : return "drx"
     return name
 
-def upload_to_github(file_path):
-    access_token = os.getenv("GH_TOKEN")
-    
-    # 최신 방식(Auth.Token)으로 변경
-    auth = Auth.Token(access_token)
-    g = Github(auth=auth)
-    
-    # 2. 본인의 "GitHub아이디/리포지토리이름"을 적으세요 (예: "user123/lck-data")
-    repo = g.get_user().get_repo("lck-data") 
-    
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    file_name = "lck_schedule.json" # 저장소에 올라갈 파일 이름
-    
-    try:
-        # 기존 파일이 있는지 확인 (있다면 덮어쓰기 위해 sha 값이 필요함)
-        contents = repo.get_contents(file_name)
-        repo.update_file(contents.path, "LCK 일정 자동 업데이트", content, contents.sha)
-        print("🚀 GitHub 업데이트 완료!")
-    except Exception as e:
-        # 파일이 없다면 새로 생성
-        repo.create_file(file_name, "LCK 일정 최초 생성", content)
-        print("🚀 GitHub 파일 생성 완료!")
+import os
+from github import Github, Auth # Auth를 추가로 임포트하세요
 
-# --- 기존 코드 마지막 부분 ---
+def upload_to_github(file_path):
+    # 1. 환경 변수에서 토큰 가져오기
+    token = os.getenv("GH_TOKEN")
+    
+    if not token:
+        print("❌ 에러: GH_TOKEN 환경 변수를 찾을 수 없습니다.")
+        return
+
+    try:
+        # 2. 최신 권장 방식(Auth)으로 인증 객체 생성
+        auth = Auth.Token(token)
+        g = Github(auth=auth)
+
+        # 3. 내 리포지토리 불러오기
+        # '아이디/리포지토리이름' 형식으로 직접 입력하는 것이 가장 안전합니다.
+        # 예: "mygithub-id/lck-data"
+        repo = g.get_repo("사용자님의_깃허브_아이디/lck-data") 
+
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        file_name = "lck_schedule.json"
+
+        # 4. 파일 업데이트 또는 생성
+        try:
+            contents = repo.get_contents(file_name)
+            repo.update_file(contents.path, "자동 일정 업데이트", content, contents.sha)
+            print("🚀 GitHub 업데이트 완료!")
+        except:
+            repo.create_file(file_name, "최초 일정 생성", content)
+            print("🚀 GitHub 파일 생성 완료!")
+            
+    except Exception as e:
+        print(f"❌ GitHub 작업 중 상세 에러 발생: {e}")
+
+# ... 하단 실행부 ...
 if __name__ == "__main__":
-    update_lck_safe()
-    save_path = "lck_schedule.json"
+    # save_path 변수가 위에서 정의되었다고 가정
+    # save_path = "lck_schedule.json" 
     upload_to_github(save_path)
