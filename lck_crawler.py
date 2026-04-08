@@ -5,7 +5,7 @@ import time
 from datetime import datetime, timedelta # [수정] timedelta 추가
 from github import Github
 def update_lck_safe():
-    save_path = r"C:\Users\VIVO_book\AndroidStudioProjects\LCKSchedule2\app\src\main\assets\lck_schedule.json"
+    save_path = "lck_schedule.json"
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -133,7 +133,9 @@ def upload_to_github(file_path):
 
 # --- 기존 코드 마지막 부분 ---
 if __name__ == "__main__":
+    # 1. 크롤링 수행 (현재 파이썬 파일이 있는 위치에 json 생성)
     update_lck_safe()
-    # 크롤링이 끝난 후 저장된 파일을 GitHub로 업로드!
-    save_path = r"C:\Users\VIVO_book\AndroidStudioProjects\LCKSchedule2\app\src\main\assets\lck_schedule.json"
-    upload_to_github(save_path)
+    # 2. 생성된 파일 경로 설정
+    current_dir_file = "lck_schedule.json"
+    # 3. GitHub 업로드
+    upload_to_github(current_dir_file)
