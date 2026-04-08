@@ -126,6 +126,5 @@ def upload_to_github(file_path):
 # --- 기존 코드 마지막 부분 ---
 if __name__ == "__main__":
     update_lck_safe()
-    # 크롤링이 끝난 후 저장된 파일을 GitHub로 업로드!
-    save_path = r"C:\Users\VIVO_book\AndroidStudioProjects\LCKSchedule2\app\src\main\assets\lck_schedule.json"
+    save_path = "lck_schedule.json"
     upload_to_github(save_path)
