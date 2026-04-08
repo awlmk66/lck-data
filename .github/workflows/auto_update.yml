@@ -2,21 +2,23 @@ name: LCK Schedule Auto Update
 
 on:
   schedule:
-    - cron: '0 18 * * *' # 매일 한국 시간 새벽 3시에 자동 실행
-  workflow_dispatch: # 수동 실행 버튼 활성화
+    - cron: '0 18 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # [추가] 강제로 Node.js 24 환경을 사용하도록 설정
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
     steps:
-      # v3에서 v4로 업데이트
       - uses: actions/checkout@v4 
-
-      # v4에서 v5로 업데이트
+      
       - name: 파이썬 설정
         uses: actions/setup-python@v5 
         with:
-          python-version: '3.11' # 최신 파이썬 버전 권장
+          python-version: '3.11'
 
       - name: 라이브러리 설치
         run: pip install -r requirements.txt
