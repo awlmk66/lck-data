@@ -8,17 +8,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # [추가] 강제로 Node.js 24 환경을 사용하도록 설정
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
     steps:
-      - uses: actions/checkout@v4 
+      # v4 대신 v5 이상 버전 사용 (Node 24 호환)
+      - uses: actions/checkout@v5 
       
+      # v5 대신 v6 이상 버전 사용
       - name: 파이썬 설정
-        uses: actions/setup-python@v5 
+        uses: actions/setup-python@v6 
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: 라이브러리 설치
         run: pip install -r requirements.txt
