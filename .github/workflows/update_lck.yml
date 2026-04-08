@@ -24,7 +24,7 @@ jobs:
 
       - name: Run Crawler
         # GitHub 서버에서 실행될 때 파일만 생성합니다.
-        run: python lck_crawler_PC.py
+        run: python lck_crawler.py
 
       - name: Commit and Push
         # 생성된 lck_schedule.json을 GitHub 저장소에 다시 업로드(커밋)합니다.
