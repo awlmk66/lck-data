@@ -2,7 +2,8 @@ import requests
 import json
 import os
 import time
-from datetime import datetime, timedelta # [수정] timedelta 추가
+import timezone
+from datetime import datetime, timedelta, timezone# [수정] timedelta 추가
 from github import Github
 def update_lck_safe():
     save_path = "lck_schedule.json"
@@ -13,15 +14,15 @@ def update_lck_safe():
     }
 
     all_raw_matches = []
-    
-    # [해결] now 변수를 루프 밖에서 먼저 정의합니다.
-    now = datetime.now()
+
+    kst = timezone(timedelta(hours=9))
+    now = datetime.now(kst)
 
     # 이번 달(i=0)과 다음 달(i=1)을 가져오기 위한 루프
     for i in range(2):
         # [수정] 현재 날짜 기준으로 타겟 월 계산
-        target_date = datetime(now.year, now.month, 1) + timedelta(days=i*31)
-        target_month_str = target_date.strftime("%Y-%m") 
+        target_date = datetime(now.year, now.month, 1, tzinfo=kst) + timedelta(days=i*31)
+        target_month_str = target_date.strftime("%Y-%m")
         
         print(f"📅 작업 대상 월: {target_month_str}")
 
