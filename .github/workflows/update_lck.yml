@@ -1,0 +1,36 @@
+name: LCK Schedule Auto Update
+
+on:
+  schedule:
+    # 한국 시간(KST) 00:00, 12:00 실행 (UTC 기준 15:00, 03:00)
+    - cron: '0 3,15 * * *'
+  workflow_dispatch: # 수동 실행 버튼 활성화
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests PyGithub
+
+      - name: Run Crawler
+        # GitHub 서버에서 실행될 때 파일만 생성합니다.
+        run: python lck_crawler_PC.py
+
+      - name: Commit and Push
+        # 생성된 lck_schedule.json을 GitHub 저장소에 다시 업로드(커밋)합니다.
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add lck_schedule.json
+          git commit -m "🚀 Auto-update LCK Score: $(date +'%Y-%m-%d %H:%M')" || echo "변경사항 없음"
+          git push
