@@ -98,7 +98,7 @@ def convert_team(name):
 
 def upload_to_github(file_path):
     # 1. 아까 복사해둔 ghp_... 토큰을 입력하세요
-    access_token = os.getenv("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")
+    access_token = os.getenv("GH_TOKEN")
     if not access_token:
         access_token = "ghp_기존토큰"
     g = Github(access_token)
