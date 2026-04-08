@@ -2,7 +2,7 @@ name: LCK Schedule Auto Update
 
 on:
   schedule:
-    - cron: '0 3,10,12,15 * * *'
+    - cron: '3 15,3,8,9,10,11,12 * * *'
   workflow_dispatch: # 수동 실행 버튼 활성화
 env:
   # 💡 이 줄을 추가하여 Node.js 24를 강제로 사용합니다.
