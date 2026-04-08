@@ -85,15 +85,15 @@
         "home": "dk",
         "away": "hle",
         "homeScore": "0",
-        "awayScore": "1"
+        "awayScore": "2"
     },
     {
         "date": "2026.04.08",
         "time": "10:00",
         "home": "t1",
         "away": "gen",
-        "homeScore": "-",
-        "awayScore": "-"
+        "homeScore": "0",
+        "awayScore": "1"
     },
     {
         "date": "2026.04.09",
