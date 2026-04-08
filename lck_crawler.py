@@ -136,6 +136,18 @@ def upload_to_github(file_path):
 
 # ... 하단 실행부 ...
 if __name__ == "__main__":
-    # save_path 변수가 위에서 정의되었다고 가정
-    # save_path = "lck_schedule.json" 
-    upload_to_github(save_path)
+    # 1. 크롤링 함수를 실행하고 결과 경로를 받아옵니다. 
+    # (함수 이름이 update_lck_safe()가 맞는지 확인하세요!)
+    try:
+        current_path = update_lck_safe() 
+        
+        # 2. 업로드 함수 호출
+        # 방금 만든 'current_path' 변수를 그대로 전달합니다.
+        upload_to_github(current_path)
+        
+    except NameError:
+        # 혹시 위에서 변수명이 꼬였을 경우를 대비한 안전장치
+        # 파일이 현재 폴더에 "lck_schedule.json" 이름으로 저장된다면 아래처럼 직접 적어도 됩니다.
+        upload_to_github("lck_schedule.json")
+    except Exception as e:
+        print(f"❌ 실행 중 에러 발생: {e}")
