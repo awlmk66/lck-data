@@ -1,0 +1,28 @@
+name: LCK Schedule Auto Update
+
+on:
+  schedule:
+    # 매일 새벽 3시(KST 정오)에 자동으로 실행 (UTC 기준)
+    - cron: '0 18 * * *'
+  workflow_dispatch: # 수동으로 실행 버튼을 누를 수도 있게 함
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 체크아웃 코드
+        uses: actions/checkout@v3
+
+      - name: 파이썬 설정
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 라이브러리 설치
+        run: |
+          pip install -r requirements.txt
+
+      - name: 크롤러 실행
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python lck_crawler.py
