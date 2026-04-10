@@ -116,8 +116,8 @@
         "time": "08:00",
         "home": "dns",
         "away": "t1",
-        "homeScore": "-",
-        "awayScore": "-"
+        "homeScore": "0",
+        "awayScore": "1"
     },
     {
         "date": "2026.04.10",
