@@ -117,15 +117,15 @@
         "home": "dns",
         "away": "t1",
         "homeScore": "0",
-        "awayScore": "1"
+        "awayScore": "2"
     },
     {
         "date": "2026.04.10",
         "time": "10:00",
         "home": "hle",
         "away": "bnk",
-        "homeScore": "-",
-        "awayScore": "-"
+        "homeScore": "1",
+        "awayScore": "0"
     },
     {
         "date": "2026.04.11",
