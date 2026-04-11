@@ -132,8 +132,8 @@
         "time": "08:00",
         "home": "ns",
         "away": "drx",
-        "homeScore": "-",
-        "awayScore": "-"
+        "homeScore": "0",
+        "awayScore": "2"
     },
     {
         "date": "2026.04.11",
