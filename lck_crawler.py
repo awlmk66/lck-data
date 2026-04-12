@@ -65,11 +65,14 @@ def update_lck_safe():
                 # --- [수정 끝] ---
 
                 # 시간 및 날짜 파싱 (기존 로직 동일)
+                                # --- [수정 후] 한국 시간(KST) 보정 적용 ---
                 ts = item.get('startTime') or item.get('startDate')
                 if isinstance(ts, int):
-                    dt = datetime.fromtimestamp(ts / 1000)
+                    # utcfromtimestamp를 사용하고 9시간을 더해 한국 시간으로 바꿉니다.
+                    dt = datetime.utcfromtimestamp(ts / 1000) + timedelta(hours=9)
                     date_val = dt.strftime("%Y.%m.%d")
                     time_val = dt.strftime("%H:%M")
+
                 else:
                     raw_start = str(item.get('startDate', ""))
                     date_val = raw_start[:10].replace("-", ".")
