@@ -116,29 +116,26 @@ def convert_team(name):
     return name
 
 def upload_to_github(file_path):
-    # 1. 아까 복사해둔 ghp_... 토큰을 입력하세요
     access_token = os.getenv("GITHUB_TOKEN")
     if not access_token:
         access_token = "ghp_기존토큰"
     g = Github(access_token)
     
-    # 2. 본인의 "GitHub아이디/리포지토리이름"을 적으세요 (예: "user123/lck-data")
     repo = g.get_user().get_repo("lck-data") 
     
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    file_name = "lck_schedule.json" # 저장소에 올라갈 파일 이름
+    # [수정] 입력받은 file_path에서 파일명만 추출하여 사용
+    file_name = os.path.basename(file_path) 
     
     try:
-        # 기존 파일이 있는지 확인 (있다면 덮어쓰기 위해 sha 값이 필요함)
         contents = repo.get_contents(file_name)
-        repo.update_file(contents.path, "LCK 일정 자동 업데이트", content, contents.sha)
-        print("🚀 GitHub 업데이트 완료!")
+        repo.update_file(contents.path, f"{file_name} 자동 업데이트", content, contents.sha)
+        print(f"🚀 GitHub {file_name} 업데이트 완료!")
     except Exception as e:
-        # 파일이 없다면 새로 생성
-        repo.create_file(file_name, "LCK 일정 최초 생성", content)
-        print("🚀 GitHub 파일 생성 완료!")
+        repo.create_file(file_name, f"{file_name} 최초 생성", content)
+        print(f"🚀 GitHub {file_name} 생성 완료!")
 
 def update_lck_rank():
     # 1. 사용자님이 찾으신 진짜 API 주소
@@ -201,7 +198,8 @@ if __name__ == "__main__":
     # [수정] GITHUB_TOKEN이 없을 때(내 PC)만 직접 업로드 호출
     # GitHub 서버(Actions)에서는 YAML 설정으로 자동 업로드할 것이므로 중복 호출 방지
     if not os.getenv("GITHUB_ACTIONS"): 
-        save_schedule_path = "lck_schedule.json"
-        upload_to_github(save_schedule_path)
-        save_rank_path = "lck_rank.json"
-        upload_to_github(save_rank_path)
+        # 일정 파일 업로드
+        upload_to_github("lck_schedule.json")
+        
+        # [중요] 순위 파일도 업로드하도록 호출 추가
+        upload_to_github("lck_rank.json")
