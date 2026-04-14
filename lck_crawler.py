@@ -201,5 +201,7 @@ if __name__ == "__main__":
     # [수정] GITHUB_TOKEN이 없을 때(내 PC)만 직접 업로드 호출
     # GitHub 서버(Actions)에서는 YAML 설정으로 자동 업로드할 것이므로 중복 호출 방지
     if not os.getenv("GITHUB_ACTIONS"): 
-        save_path = "lck_schedule.json"
-        upload_to_github(save_path)
+        save_schedule_path = "lck_schedule.json"
+        upload_to_github(save_schedule_path)
+        save_rank_path = "lck_rank.json"
+        upload_to_github(save_rank_path)
