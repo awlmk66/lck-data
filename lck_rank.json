@@ -2,11 +2,11 @@
     {
         "rank": "1",
         "name": "kt 롤스터",
-        "win": "4",
+        "win": "5",
         "lose": "0",
-        "diff": "7",
+        "diff": "8",
         "winRate": "100%",
-        "kda": "6.0",
+        "kda": "5.7",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
@@ -50,17 +50,7 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
-        "rank": "5",
-        "name": "Dplus Kia",
-        "win": "2",
-        "lose": "2",
-        "diff": "0",
-        "winRate": "50%",
-        "kda": "2.78",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
-    },
-    {
-        "rank": "7",
+        "rank": "6",
         "name": "KIWOOM DRX",
         "win": "2",
         "lose": "2",
@@ -68,6 +58,16 @@
         "winRate": "50%",
         "kda": "2.79",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
+    },
+    {
+        "rank": "7",
+        "name": "Dplus Kia",
+        "win": "2",
+        "lose": "3",
+        "diff": "-1",
+        "winRate": "40%",
+        "kda": "2.53",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
     },
     {
         "rank": "8",
