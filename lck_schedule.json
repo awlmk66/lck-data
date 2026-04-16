@@ -188,8 +188,8 @@
         "time": "19:00",
         "home": "dns",
         "away": "hle",
-        "homeScore": "-",
-        "awayScore": "-"
+        "homeScore": "0",
+        "awayScore": "2"
     },
     {
         "date": "2026.04.17",

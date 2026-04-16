@@ -12,11 +12,11 @@
     {
         "rank": "2",
         "name": "한화생명e스포츠",
-        "win": "3",
+        "win": "4",
         "lose": "1",
-        "diff": "3",
-        "winRate": "75%",
-        "kda": "4.28",
+        "diff": "5",
+        "winRate": "80%",
+        "kda": "4.61",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjcy/MDAxNzczNzIzNTc5NDky.9eTdm6BvT2HbggUb-yhcullZlCZ0qRwvyg3nghOspe4g.KwMou1pP17GA6ZH3jHItJtbVcNZbu3WlBSd1JcbKgYYg.PNG/JwLmudFWxphtycEONqXW.png"
     },
     {
@@ -26,7 +26,7 @@
         "lose": "2",
         "diff": "3",
         "winRate": "60%",
-        "kda": "4.62",
+        "kda": "4.77",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
@@ -71,16 +71,6 @@
     },
     {
         "rank": "8",
-        "name": "DN 수퍼스",
-        "win": "1",
-        "lose": "3",
-        "diff": "-4",
-        "winRate": "25%",
-        "kda": "2.35",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjc3/MDAxNzc0MzEyMjIyNTQ1.AtyLESEVsA58hcAiqC93ek3sT5FVJKzVPx6BBiuUVeIg.zbdKVzDJYFYwAoIEHyjNlg6U0bWjIrD0MCG1taY72_Eg.PNG/AcYPXvvrBijVuYVZOSyl.png"
-    },
-    {
-        "rank": "9",
         "name": "BNK 피어엑스",
         "win": "1",
         "lose": "4",
@@ -90,13 +80,23 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
-        "rank": "9",
+        "rank": "8",
         "name": "한진 브리온",
         "win": "1",
         "lose": "4",
         "diff": "-5",
         "winRate": "20%",
-        "kda": "2.63",
+        "kda": "2.56",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
+    },
+    {
+        "rank": "10",
+        "name": "DN 수퍼스",
+        "win": "1",
+        "lose": "4",
+        "diff": "-6",
+        "winRate": "20%",
+        "kda": "2.18",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjc3/MDAxNzc0MzEyMjIyNTQ1.AtyLESEVsA58hcAiqC93ek3sT5FVJKzVPx6BBiuUVeIg.zbdKVzDJYFYwAoIEHyjNlg6U0bWjIrD0MCG1taY72_Eg.PNG/AcYPXvvrBijVuYVZOSyl.png"
     }
 ]
