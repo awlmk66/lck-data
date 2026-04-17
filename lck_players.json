@@ -6,483 +6,537 @@
         "kda": "99.9",
         "kill": "100",
         "death": "0",
-        "assist": "100"
+        "assist": "100",
+        "imageUrl": ""
     },
     {
-        "name": "Unknown",
-        "team": "TBD",
+        "name": "Aiming",
+        "team": "kt 롤스터",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "5",
+        "death": "0",
+        "assist": "8",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjQz/MDAxNzczNzIzNTkwNzAz.qf45fa8b50pyiQqvYNuuRWNAWj4ieVap6njyr4qxNZcg.lDetCYisrN2z21iEoNrQvsF2EjoIWzEuY6cuukyzdXsg.PNG/tpQyXlRDRUgSeCahbZLK.png"
+    },
+    {
+        "name": "Zeka",
+        "team": "한화생명e스포츠",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "4",
+        "death": "1",
+        "assist": "5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTQy/MDAxNzczNzIzNjE0Njcx.kT-bsNiMBRC6sYf3kx_qP8kZXVy8FKdEhn1KJ5Tewh0g.SUuSSdrLb4UF3269fiS94-2a0TuqQeSxT0mtiCNikGEg.PNG/OuVokJTCDMeCQFqFqQqs.png"
+    },
+    {
+        "name": "Bdd",
+        "team": "kt 롤스터",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "5",
+        "death": "0",
+        "assist": "8",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTIy/MDAxNzczNzIzNTg2NDk1.w2gWbXTO0T80Jdgfqns3cL-jA0NvIH8Esrevb_XJjOwg.Ml9nxKhtgWkyuyPQRSe3K3COH-CHWsJBzbT-FsGRvGwg.PNG/YIlXlpGRfuwcuJqeddbk.png"
+    },
+    {
+        "name": "Ruler",
+        "team": "젠지",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "3",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTgz/MDAxNzczNzIzNTg3NDQy.8iDP9yGfZEyzj8eV0QIYb9FiL1M-xUCm19bxP9M_Crwg.y_uSa5cIBlWR53dEPcMhIzznCcYbwH6gqcTorKyh1w4g.PNG/XVwgIOBJdCPlsdNkVQmK.png"
+    },
+    {
+        "name": "Effort",
+        "team": "kt 롤스터",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "5",
+        "death": "0",
+        "assist": "8",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMjQg/MDAxNzc0ODQ1Mzg1MDQy.pE1brSCN1gukZCbr2fjqv6X3wcF1lS9R9h1YTWdDuH0g.iJyZ-vE3J3-XLZ3ScOm9knaRJxQCfxkGsh9W-1NnFfUg.PNG/MwcWLCsVeKbJZHyZoDLl.png"
+    },
+    {
+        "name": "Cuzz",
+        "team": "kt 롤스터",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "5",
+        "death": "0",
+        "assist": "8",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTAy/MDAxNzczNzIzNTg4ODEx.OypqNupKWTEmDWByvGX_Eakn9qaQ2S1kI2Lf14R--tEg.Db4LXClFnM5qP9uV298T8F9h0U1s9P7H76e_8PBsbFgg.PNG/qQtbjwuRfigsBNPmnEAK.png"
+    },
+    {
+        "name": "Chovy",
+        "team": "젠지",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "3",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA1/MDAxNzczNzIzNTkxMzAy.6MUszTwyeqMbA7na8ewWXNhw9wZZaAp77Fz9GAW2spAg.yQCJ1qG_Q8wwV8L8y3IOVolliu6BkUWZBGkCIMvHDKMg.PNG/hJsbuiMbGyslPdNmYOuH.png"
+    },
+    {
+        "name": "Gumayusi",
+        "team": "한화생명e스포츠",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "4",
+        "death": "1",
+        "assist": "5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk2/MDAxNzczNzIzNjAyNTc1.4uFWDJHoF4If4Kz9pikTGRoivp9bHsBibgsKK2GjAwUg.lenIcSJc5E2uw_qsGgA9F-KX4a-GtLOKb8fmJAntGt4g.PNG/RoqligKgjrIIVoNusALM.png"
+    },
+    {
+        "name": "Duro",
+        "team": "젠지",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "3",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMzIg/MDAxNzczNzIzNjI2NjU2.PA6SZcyiw5jRQ_vqSyGdEsZ4iLmQ6VF_cSuX6ojZQKQg.J0itJeq0OrXfUQMqbpy3Du9DUt3eeyTvAdH9poCoTFEg.PNG/qjWRnddRiSPjDqaEYvnR.png"
+    },
+    {
+        "name": "Delight",
+        "team": "한화생명e스포츠",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "4",
+        "death": "1",
+        "assist": "5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTUy/MDAxNzczNzIzNjA5Njky.r7-LtfNley3WdThXSq1HJfca13AJVxFkNkBe6Yyqo68g.hNJL37qJ5esZ8_3ilPgl-bexfCRyt-Mg65eDXnapRogg.PNG/rpAgKRYsKsdlNwgqXMJZ.png"
+    },
+    {
+        "name": "Sponge",
+        "team": "농심 레드포스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "2",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTUw/MDAxNzczNzIzNjI3OTg3.Shyhv7W3yxgpi8TD3Kl0XzUn5EGoUEExd7MieKL6-yAg.kGyaFhJ2rgMXiwQDWDVLqNYBhD3qum88HpkQ3zlCqacg.PNG/jsNpWWjLYQDYZalfCNRq.png"
+    },
+    {
+        "name": "Lehends",
+        "team": "농심 레드포스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "2",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjk1/MDAxNzczNzIzNTg3OTUz.PTFCoL6AxwWdgDWEx0yUHs8rr0sgd_JCFXOPMWMkHhYg.PpNlrC0O1g2ZokTu1h3UbnnG7R7tSrhE8ltezCtuFfYg.PNG/ECbNlaZZPIOoBivTdEKG.png"
+    },
+    {
+        "name": "Scout",
+        "team": "농심 레드포스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "2",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjAg/MDAxNzczNzIzNTg2OTU2.6EcMuV3QJ0nr8HLDYgoRSXHU3h8es4UWCRcjvsclh7Qg.OTaPF_5BUPTdL-SHQlIMThfqRAcUjFPBS5covBLCoTkg.PNG/ahKrytJJIofDZFlrVift.png"
+    },
+    {
+        "name": "Kiin",
+        "team": "젠지",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "3",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMzIg/MDAxNzczNzIzNTg5MjYz.KAZLTsmkUrK8U-9iYpuHwmJhylnHYxGntq_suPHaqdQg.GnxOne0Am_zv7LBtBaxuNp6JSxEX0dJp6Lm6BHCek6Ug.PNG/HYYvuAITYQJsiAPapaen.png"
+    },
+    {
+        "name": "Taeyoon",
+        "team": "농심 레드포스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "2",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfOTUg/MDAxNzczNzIzNjE1NjM1.z5hCz3zb2r482YVVNXbRBVoW4eOcaBn-8U58tSk5jHYg.HYPS9WFVNCcRQQb8kI4AXq-iekfRpRF8Bn5hU064lEYg.PNG/RXnuYHsjYvxrvjoXOivL.png"
+    },
+    {
+        "name": "Canyon",
+        "team": "젠지",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "3",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjk5/MDAxNzczNzIzNTkyOTgx.j-Dl3GsOA9eL6dWJsjffNuutHDQxKbsQn9Vumm5yNnEg.1n2bAvR_1Js-_tClxIUlmRQzlvAQA-VFbaHtJiTIQiog.PNG/HwwgwXgmsUfdlwvBPOzW.png"
+    },
+    {
+        "name": "Life",
+        "team": "DN 수퍼스",
         "position": "All",
         "kda": "0.0",
         "kill": "0",
-        "death": "0",
-        "assist": "0"
+        "death": "1",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjMy/MDAxNzczNzIzNTkxODQ3.Riq-NsLJsMcJFIJ8OtyNkQfT1QB-gSYBO5JZt5E41Xgg.r2Po9rOiDYSaans4DYI4tEevbBfYv_J53kSLXJ1qdxEg.PNG/KBmDBRZZvXAdyWWpWMMH.png"
     },
     {
-        "name": "Unknown",
-        "team": "TBD",
+        "name": "PerfecT",
+        "team": "kt 롤스터",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "5",
+        "death": "0",
+        "assist": "8",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfNTMg/MDAxNzczNzIzNjExNjg0.ASSA4lT4OY25uavYgw_fjbHzV40borxkKRh6GljsdvUg.B4XDub1N51aW6RZ1RRVzvTrKdj0NYgi0VluRPJEJLx0g.PNG/LwVLDQXsPwKYrTKYzXIW.png"
+    },
+    {
+        "name": "Ucal",
+        "team": "KIWOOM DRX",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjE5/MDAxNzczNzIzNTkwMjU5.B4oiOwnQpq-I68yj7IDcaHJAN208RUu9aPVbhgfchAgg.Ly52RMC7vs-ysCS-NZsESCEDo_4xR5XO5gb_6c-fEDsg.PNG/sntZLOYfxDVrKrUNkrHd.png"
+    },
+    {
+        "name": "Kanavi",
+        "team": "한화생명e스포츠",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "4",
+        "death": "1",
+        "assist": "5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTEz/MDAxNzczNzIzNTkzNzc4.BiLa94D_w1xjZx-d-wpSwsmLhGWRmIViMCw_DGkdWAAg.DT4Aj1pKDmiBLpppm-_4k-Db5NerekHzrRqAa9IXhjMg.PNG/VjbJwDvBMfncFPIDWNDR.png"
+    },
+    {
+        "name": "Kingen",
+        "team": "농심 레드포스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "3",
+        "death": "2",
+        "assist": "2",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTUw/MDAxNzczNzIzNTkyMjg3.-EWempry8g_5iz9xmZvNZGZyUs-IhtflPjpkWnf7mJ0g.cCnk9GBObbcyzfFo_bJM8qZ1RJIwullrwQDKupPd_80g.PNG/IjEJbSHWeHzAPYWkPUiv.png"
+    },
+    {
+        "name": "Smash",
+        "team": "Dplus Kia",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "3",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjgy/MDAxNzczNzIzNjM1MDM0.aOcsgEz0EDWxw8VbbYoautDi_h7ozud_42eoVyz-9ewg.-Qu07WCxZ5VUQsDHo0QpJwd6iQbJP2U8ChFZILm46YUg.PNG/zPGcnmnjQbMnaRQjFRDv.png"
+    },
+    {
+        "name": "LazyFeel",
+        "team": "KIWOOM DRX",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "1",
+        "assist": "1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjA0MDRfMjA1/MDAxNzc1Mjk4Mzg2Mzk1.eo1EpMLaZkOXm1w_mKYy46O6DT_I2x2f4HdZk3dp-j0g.QgcfiXQWMJaX3idYsmp4_dzWL1Npuv9rhozzAHTKui0g.PNG/TOlOgMtufQzjyELvtLjA.png"
+    },
+    {
+        "name": "Peyz",
+        "team": "T1",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "0",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjM2/MDAxNzczNzIzNjI1NjYw.4AMt_1HokezBlsBdveaApYDk7fywuLgytc2Vv_DIulgg.eb71Y_5Hroumczcy7Fl24ka60NPkNKNjFUEHc6Dx73gg.PNG/suZYDHnxGctphJXOYtmR.png"
+    },
+    {
+        "name": "Keria",
+        "team": "T1",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "0",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjQz/MDAxNzczNzIzNjAzMTMw.5YkjJeXJUMReY1JuNGm-G2HNwO6FTYLkANAWTTGt43wg.GDDHMa2xvm4n4ZwXGbZ9e-jLsUMJ0RZVnh39bOwSR3Qg.PNG/MvyVANeZinQSEaNSnifE.png"
+    },
+    {
+        "name": "Zeus",
+        "team": "한화생명e스포츠",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "4",
+        "death": "1",
+        "assist": "5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk1/MDAxNzczNzIzNjA4MjU5.26szr8LinILVpz1ZoM3SZW7icZ1Aq4VwOhN77zVynckg.8GR-vw-IXwAyO5ggWCfXIPWAWDVmLr26y8pvfVs65c8g.PNG/LHYwvvUQzkcHnvptEljH.png"
+    },
+    {
+        "name": "Teddy",
+        "team": "한진 브리온",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTAg/MDAxNzczNzIzNTg4NDMz.2ixJFxJJ_AiDfoPDUGvyTa0Xusphjpy_BVIXMgRcfRsg.xZHbZckCgPBtfW0DrdKpo_VOvD7H9gjA5hOZiHb6Wq0g.PNG/ehOPgFlksbEekEkXNGzh.png"
+    },
+    {
+        "name": "GIDEON",
+        "team": "한진 브리온",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfNDkg/MDAxNzczNzIzNjA2MjMz.asBIUyfHPGKs3uS0P-STPwZzscTl-M-rDGys6YbTpoAg.ZLkkHjv4qG6HrO_5af3tnLFY1YEGUkcIADuY6XwbyZYg.PNG/wFoTlcMoakACXDMbFyYc.png"
+    },
+    {
+        "name": "Willer",
+        "team": "KIWOOM DRX",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfOTQg/MDAxNzczNzIzNjE5MzM1.8q544c41wax6j3xn4L0H7o_85RccYNk2dyoaJ6kKxB4g.kKwHjpKk-LTHNsyzyBkqx5IE31d_wUlEwVxaJqrIHisg.PNG/zsVicJTrfvSRnYQevlVt.png"
+    },
+    {
+        "name": "Oner",
+        "team": "T1",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "0",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg1/MDAxNzczNzIzNjA5MjE3.eAqPbmAumTprsTcn9l_uyQ_J3uTeja-l94rKpQiefpYg.kihqtX0Cr1hmROEyJaxs-MJqMU7Dw5T9yZQBuAubmOUg.PNG/IHQtiNhiFyvxeQfpUTiK.png"
+    },
+    {
+        "name": "Career",
+        "team": "Dplus Kia",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "3",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTQ2/MDAxNzczNzIzNjM3MDI1.tWc1JGkvbBiD3j4JZQBqO0qhkP9-X7xNkdof6gJK3AIg.SYYmnWUM-hWyUAS96wWfk5RtS2DQsjbFztSlJrSj52gg.PNG/ZuAedUFxIACBUoGngpWe.png"
+    },
+    {
+        "name": "Faker",
+        "team": "T1",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "0",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTQ0/MDAxNzczNzIzNTgzNzk4.1TCNnJnFpBmM1_Y6dx0y9V-4z-dDVDgY9uUd0fl0mN8g.6BNGsICD01rK2YJZqA8Suv4FNKOLz6Ncy260OMAK_tAg.PNG/zbtoawuGwiqVwzOOCsGS.png"
+    },
+    {
+        "name": "Daystar",
+        "team": "BNK 피어엑스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "1",
+        "assist": "0",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTEx/MDAxNzczNzIzNjQwOTI1.q_lpKkWEf6FrYYWcOIK_P5eGGNElV8_yA8Zj9Y-Njqwg.YS8n_eS2EHgHFW-pKMT-QbQrX0medOMkcvE1UA4oHoYg.PNG/mfkMBGgVsPSVopnXMXoj.png"
+    },
+    {
+        "name": "Lucid",
+        "team": "Dplus Kia",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "3",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTUy/MDAxNzczNzIzNjE4NzIy.LCgIPvbDRTWLb3gXsNTEcCuztKBH6pV61c6wnR_kDk8g.D8KHFYZJPQRYGeYHmyIiYohNdF3BKF4yFaSWRWAOj1Qg.PNG/tTbRCzYvxmvNlCnsBMYd.png"
+    },
+    {
+        "name": "Andil",
+        "team": "KIWOOM DRX",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfOTYg/MDAxNzczNzIzNjMzODk4.9dmptjW2gPA-e3EBKq0pn8SBE0MRVsgbpgahp-kwdvsg.toOTl92C4jHx23qyAPRhou3vBmlfTe9zkcwrxfoNMuQg.PNG/cRmdwemTCtwNWyZVRxHZ.png"
+    },
+    {
+        "name": "Loki",
+        "team": "한진 브리온",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMjdfOTUg/MDAxNzc0NjAxNDI2NTM3.zOPT8ED8AmCIX_KdQUHVoWiMODxavKTFdrZDaAjU6Cog.4LSqQUxZs4dZwd1ADP70XYy-q2isyMDNfGXNC8Pxypog.PNG/vXpAXpqJfzGgLYiNAVaJ.png"
+    },
+    {
+        "name": "Pyosik",
+        "team": "DN 수퍼스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-6",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjY2/MDAxNzczNzIzNjAyOTEz.j5FpETbq7enY19whUJR5C-EDHVaTvBaW_9OF49dP_L4g.5LDUNd4oO3b1BdZ48P8nXjjX0xPrNVDn98Y1Eia_IbQg.PNG/lZCBkQJaVyKgxWfqcWeY.png"
+    },
+    {
+        "name": "Kellin",
+        "team": "BNK 피어엑스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjUw/MDAxNzczNzIzNTkzNTY4.7ZHBBrj-Z8EYPXlHY16DKJqYpJsurVkEhJxHih-oWdgg.oi32okgkNISNCBIT0c4SMCYKhfhqdRcE_83l6tiEn5Qg.PNG/uKBKFRAAgNWqHyqaBnlX.png"
+    },
+    {
+        "name": "deokdam",
+        "team": "DN 수퍼스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-6",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTgx/MDAxNzczNzIzNTk3MDc3.DXYTYfAtsUdSwR8rk3y-BQtZaDwe_6Spw3rXed9ivsYg.2PfKfG1-yeK1I1Hz8JitnzV-j5Gaj9T9RdW5HGDh71Ug.PNG/ZwodUzTHlsAzzEKFqzPd.png"
+    },
+    {
+        "name": "Diable",
+        "team": "BNK 피어엑스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfNzkg/MDAxNzczNzIzNjMyMTM0.Y_pA3S6kwno1i1zgI0lhVmwLJnK1wfD-o4sQ-Hnes6wg.9bqto4HWv0fDjIrFnFljfH0rVDsV_wMCcZvE9Y2M1f4g.PNG/gDRWMEapDSUayzGYnjwO.png"
+    },
+    {
+        "name": "ShowMaker",
+        "team": "Dplus Kia",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "3",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfOSAg/MDAxNzczNzIzNTkyNTIy.HXsJhBEYoN5nItOx1jeOofoLx4uyuBAOSXZ5DwRzeP0g.ZAG3pIpsloTcfkX9HRnc4A4Bhw64PLcuMHlwvPc5VIog.PNG/zTHdRjirhhKHnSNGpqWX.png"
+    },
+    {
+        "name": "Peter",
+        "team": "DN 수퍼스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfNzQg/MDAxNzczNzIzNjE3OTE3.KDzSm2hhhbxBhKUjHabfOtoG_7gGJQC1-k_5xO321Tgg.T6F0ArCDFM9rBmxbNkEHxPk16vbSFAPAmifNksyKIzQg.PNG/zeNebtYFaqbxlXABxuwG.png"
+    },
+    {
+        "name": "Rich",
+        "team": "KIWOOM DRX",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjc2/MDAxNzczNzIzNTk2MjY2.vWRYwmi_Ydn3IBb2cZVeTg41OcKFWBrVe10Lk2Znt0gg.NUKiy-ovH2ayy2R_MNMkEq0sy00F_CBYGiaMORgLIcog.PNG/WIBjFoQOOreIJOBwmTqQ.png"
+    },
+    {
+        "name": "Clozer",
+        "team": "DN 수퍼스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-6",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMzMg/MDAxNzczNzIzNjA1MDA2.5mWAF6kMuU9lfd2_0_8QMRuYy0RDpCirVTAo_6YlzWkg.A7IarbIqZGDm2OomYfJy5wzDOC019VfFZYSHrAxeUJ0g.PNG/DcVTLtabNxlAsEgSwoaT.png"
+    },
+    {
+        "name": "Namgung",
+        "team": "한진 브리온",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTgx/MDAxNzczNzIzNjM5NzM5.WmCXvGuuvI2pJd2CdfjzxQgQb2axTYWNapOeC-CeoNQg.bJEBfJsako_kLarU1xKdiqjil0x1b2iCSvhKYhqTHWkg.PNG/eoyYQIBQBuevxEOGZnks.png"
+    },
+    {
+        "name": "Raptor",
+        "team": "BNK 피어엑스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjIx/MDAxNzczNzIzNjIzODc5.fT1i9HmENu-I8_Bu5GkfWR9BDEQhisq1oYXAaOkNxK4g.7OS4-UbmjA3MGC9XGNuRvIyTu79kP-aHmm_g47mzMP8g.PNG/nmoHgUzwAVmqMrMIXlIL.png"
+    },
+    {
+        "name": "VicLa",
+        "team": "BNK 피어엑스",
         "position": "All",
         "kda": "0.0",
         "kill": "0",
-        "death": "0",
-        "assist": "0"
+        "death": "3",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjE0/MDAxNzczNzIzNjExMzI3.-LcSrKMtedkYvciSYMibAHvFp0WyHfHpxUzhHj6LH3Eg.1csBXRNmGJdxMCJToPlVLaztgXdpZP3pgwys1ATFYG4g.PNG/lvevwFnbMwNhCjFXAzGL.png"
     },
     {
-        "name": "Unknown",
-        "team": "TBD",
+        "name": "Casting",
+        "team": "한진 브리온",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTY1/MDAxNzczNzIzNjMzMzU1.Y8SuJw8kaZSBYLQ6_AemK0-UKNBlYmcwIV_nn7pPgNsg.rqInK1iqfmvZxliQElhwD1O8TAbu5lJ5S7pAQd_eRCgg.PNG/xlibYiaTLFNMTCxsrlEQ.png"
+    },
+    {
+        "name": "DuDu",
+        "team": "DN 수퍼스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-6",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg0/MDAxNzczNzIzNjA0NjYy.tEeuEicseyDEU2jj8NDO9xuC9D6XwcG3vdar67qbNS0g.7p5-mjQ3TUrjhjYcK4NgCyNBRzFzh1LxyVq4lpSeDAsg.PNG/LoSAcnSvgmsPAULfOEKS.png"
+    },
+    {
+        "name": "Doran",
+        "team": "T1",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "2",
+        "assist": "0",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjk0/MDAxNzczNzIzNTk3MzE1.myF5lf7TumupxR6yRX7X_9_UEODi1uqBiWpaiTPdevIg.rbNgNN6XKGvMw3QgH63PE-SNSH8PxkRNUMDw_cJHfLMg.PNG/ZzkpRRlKwYLuobhuGCTX.png"
+    },
+    {
+        "name": "Siwoo",
+        "team": "Dplus Kia",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "2",
+        "death": "3",
+        "assist": "-1",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTY3/MDAxNzczNzIzNjM5OTQ2.1VqJvt6C7M08E-oNCLo_oL0oQcqq2gQldbSqybEFTUkg.D8mGSWa6M98l1q9AuCplcBkdZOGbZnGF1MyZPepldjUg.PNG/WVxEuYgiMyReEFgBvRbJ.png"
+    },
+    {
+        "name": "Clear",
+        "team": "BNK 피어엑스",
+        "position": "All",
+        "kda": "0.0",
+        "kill": "1",
+        "death": "4",
+        "assist": "-5",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfNDAg/MDAxNzczNzIzNjE1NDA0.L_Y9ogoOksLqT7SJlTOVTvrploFfxWF_5T0K4jGXlIEg.PfvmENEAqJvrrwbtqu5f_68R_Md_97-TClpoxkTvGIEg.PNG/voIJhJypoVMmALZVUPoD.png"
+    },
+    {
+        "name": "Jiwoo",
+        "team": "KIWOOM DRX 챌린저스",
         "position": "All",
         "kda": "0.0",
         "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
-    },
-    {
-        "name": "Unknown",
-        "team": "TBD",
-        "position": "All",
-        "kda": "0.0",
-        "kill": "0",
-        "death": "0",
-        "assist": "0"
+        "death": "1",
+        "assist": "-2",
+        "imageUrl": "https://nng-phinf.pstatic.net/MjAyNjA0MDdfMjE2/MDAxNzc1NTU5MTQyNDM1.O1n2k4aTyISHOlsMRzr3Td2SAM2y0gqPUfKPQ2znvV4g.iVu84KLNR62yNjE5RFfDLVWcDiIl9c8S_JzT0GjVCnQg.PNG/sXqQSgxPlhdVmfqpFhIV.png"
     }
 ]
