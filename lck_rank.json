@@ -51,16 +51,6 @@
     },
     {
         "rank": "6",
-        "name": "KIWOOM DRX",
-        "win": "2",
-        "lose": "2",
-        "diff": "-1",
-        "winRate": "50%",
-        "kda": "2.79",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
-    },
-    {
-        "rank": "7",
         "name": "Dplus Kia",
         "win": "2",
         "lose": "3",
@@ -70,17 +60,27 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
     },
     {
-        "rank": "8",
-        "name": "BNK 피어엑스",
-        "win": "1",
-        "lose": "4",
-        "diff": "-5",
-        "winRate": "20%",
-        "kda": "2.12",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
+        "rank": "7",
+        "name": "KIWOOM DRX",
+        "win": "2",
+        "lose": "3",
+        "diff": "-3",
+        "winRate": "40%",
+        "kda": "2.47",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
     },
     {
         "rank": "8",
+        "name": "BNK 피어엑스",
+        "win": "2",
+        "lose": "4",
+        "diff": "-3",
+        "winRate": "33%",
+        "kda": "2.55",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
+    },
+    {
+        "rank": "9",
         "name": "한진 브리온",
         "win": "1",
         "lose": "4",
