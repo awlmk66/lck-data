@@ -3,7 +3,7 @@ import json
 import os
 import time
 from datetime import datetime, timedelta # [수정] timedelta 추가
-from github import Github
+from github import Github, Auth
 def update_lck_safe():
     save_path = "lck_schedule.json"
     
@@ -189,17 +189,87 @@ def update_lck_rank():
     except Exception as e:
         print(f"❌ 에러 발생: {e}")
 
+def update_lck_players():
+    # 실제 네이버 선수 정보 API 주소는 시즌별로 형식이 다를 수 있습니다.
+    # 만약 아래 주소가 작동하지 않는다면 브라우저 네트워크 탭에서 실제 주소를 확인해야 합니다.
+    url = "https://esports-api.game.naver.com/service/v1/ranking/lck_2026/player" # 선수 순위/스탯 API
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://game.naver.com/esports/"
+    }
+    
+    try:
+        response = requests.get(url, headers=headers)
+        
+        # [방어 코드] 응답이 비어있거나 에러인지 확인
+        if not response.text.strip():
+            print("❌ 선수 정보 에러: 서버 응답이 비어있습니다. (API 주소 확인 필요)")
+            return
+
+        data = response.json()
+        raw_players = data.get('content', [])
+        
+        player_list = []
+        for p in raw_players:
+            # 네이버 선수 API 구조에 맞춰 필드명 수정 (예시)
+            player_list.append({
+                "name": p.get('nickname', p.get('name', 'Unknown')),
+                "team": p.get('teamName', 'TBD'),
+                "position": p.get('positionValue', 'All'),
+                "kda": str(p.get('kda', '0.0')),
+                "kill": str(p.get('killCount', '0')),
+                "death": str(p.get('deathCount', '0')),
+                "assist": str(p.get('assistCount', '0'))
+            })
+        player_list.append({
+            "name": "TEST_PLAYER",
+            "team": "GEN",
+            "position": "MID",
+            "kda": "99.9",
+            "kill": "100",
+            "death": "0",
+            "assist": "100"
+        })
+            
+        with open('lck_players.json', 'w', encoding='utf-8') as f:
+            json.dump(player_list, f, ensure_ascii=False, indent=4)
+        print(f"✅ 선수 정보 저장 완료! ({len(player_list)}명)")
+
+    except Exception as e:
+        print(f"❌ 선수 정보 에러: {e}")
+
+def upload_to_github(file_path):
+    access_token = os.getenv("GITHUB_TOKEN") or "ghp_실제토큰값"
+    
+    # [수정] 최신 방식의 Auth 적용 (경고 메시지 해결)
+    auth = Auth.Token(access_token)
+    g = Github(auth=auth)
+    
+    repo = g.get_user().get_repo("lck-data") 
+    file_name = os.path.basename(file_path)
+    
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+        
+    try:
+        contents = repo.get_contents(file_name)
+        repo.update_file(contents.path, f"{file_name} 자동 업데이트", content, contents.sha)
+        print(f"🚀 GitHub {file_name} 업데이트 완료!")
+    except Exception:
+        repo.create_file(file_name, f"{file_name} 최초 생성", content)
+        print(f"🚀 GitHub {file_name} 생성 완료!")
+
     
 # --- 기존 코드 마지막 부분 ---
 if __name__ == "__main__":
     # 1. 크롤링 수행 (현재 위치에 lck_schedule.json 생성)
     update_lck_safe()
     update_lck_rank()
+    update_lck_players()
     # [수정] GITHUB_TOKEN이 없을 때(내 PC)만 직접 업로드 호출
     # GitHub 서버(Actions)에서는 YAML 설정으로 자동 업로드할 것이므로 중복 호출 방지
-    if not os.getenv("GITHUB_ACTIONS"): 
-        # 일정 파일 업로드
-        upload_to_github("lck_schedule.json")
-        
-        # [중요] 순위 파일도 업로드하도록 호출 추가
-        upload_to_github("lck_rank.json")
+    if not os.getenv("GITHUB_ACTIONS"):
+        # 경기 일정, 순위, 선수 정보 서버로 업로드 
+        for file in ["lck_schedule.json", "lck_rank.json", "lck_players.json"]:
+            upload_to_github(file)
