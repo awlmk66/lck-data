@@ -12,25 +12,15 @@
     {
         "rank": "2",
         "name": "한화생명e스포츠",
-        "win": "4",
+        "win": "5",
         "lose": "1",
-        "diff": "5",
-        "winRate": "80%",
-        "kda": "4.61",
+        "diff": "7",
+        "winRate": "83%",
+        "kda": "5.11",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjcy/MDAxNzczNzIzNTc5NDky.9eTdm6BvT2HbggUb-yhcullZlCZ0qRwvyg3nghOspe4g.KwMou1pP17GA6ZH3jHItJtbVcNZbu3WlBSd1JcbKgYYg.PNG/JwLmudFWxphtycEONqXW.png"
     },
     {
         "rank": "3",
-        "name": "젠지",
-        "win": "3",
-        "lose": "2",
-        "diff": "3",
-        "winRate": "60%",
-        "kda": "4.77",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
-    },
-    {
-        "rank": "4",
         "name": "농심 레드포스",
         "win": "3",
         "lose": "2",
@@ -38,6 +28,16 @@
         "winRate": "60%",
         "kda": "4.19",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
+    },
+    {
+        "rank": "4",
+        "name": "젠지",
+        "win": "3",
+        "lose": "3",
+        "diff": "1",
+        "winRate": "50%",
+        "kda": "3.88",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
         "rank": "5",
