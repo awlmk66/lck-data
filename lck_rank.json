@@ -6,7 +6,7 @@
         "lose": "0",
         "diff": "10",
         "winRate": "100%",
-        "kda": "6.09",
+        "kda": "6.1",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
@@ -22,11 +22,11 @@
     {
         "rank": "3",
         "name": "농심 레드포스",
-        "win": "3",
+        "win": "4",
         "lose": "2",
-        "diff": "2",
-        "winRate": "60%",
-        "kda": "4.19",
+        "diff": "3",
+        "winRate": "67%",
+        "kda": "3.9",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
@@ -83,10 +83,10 @@
         "rank": "9",
         "name": "한진 브리온",
         "win": "1",
-        "lose": "4",
-        "diff": "-5",
-        "winRate": "20%",
-        "kda": "2.56",
+        "lose": "5",
+        "diff": "-6",
+        "winRate": "17%",
+        "kda": "2.81",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
     },
     {
