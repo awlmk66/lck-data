@@ -30,7 +30,17 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
-        "rank": "4",
+        "rank": "3",
+        "name": "젠지",
+        "win": "5",
+        "lose": "3",
+        "diff": "5",
+        "winRate": "63%",
+        "kda": "4.58",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
+    },
+    {
+        "rank": "5",
         "name": "Dplus Kia",
         "win": "5",
         "lose": "3",
@@ -40,23 +50,13 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
     },
     {
-        "rank": "5",
-        "name": "젠지",
-        "win": "4",
-        "lose": "3",
-        "diff": "3",
-        "winRate": "56%",
-        "kda": "4.05",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
-    },
-    {
         "rank": "6",
         "name": "농심 레드포스",
         "win": "4",
-        "lose": "3",
-        "diff": "2",
-        "winRate": "56%",
-        "kda": "3.74",
+        "lose": "4",
+        "diff": "0",
+        "winRate": "50%",
+        "kda": "3.3",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
