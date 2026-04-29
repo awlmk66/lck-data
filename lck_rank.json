@@ -22,15 +22,15 @@
     {
         "rank": "3",
         "name": "T1",
-        "win": "5",
+        "win": "6",
         "lose": "3",
-        "diff": "5",
-        "winRate": "63%",
-        "kda": "3.05",
+        "diff": "7",
+        "winRate": "67%",
+        "kda": "3.45",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
-        "rank": "3",
+        "rank": "4",
         "name": "젠지",
         "win": "5",
         "lose": "3",
@@ -53,10 +53,10 @@
         "rank": "6",
         "name": "농심 레드포스",
         "win": "4",
-        "lose": "4",
-        "diff": "0",
-        "winRate": "50%",
-        "kda": "3.3",
+        "lose": "5",
+        "diff": "-2",
+        "winRate": "44%",
+        "kda": "2.99",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
