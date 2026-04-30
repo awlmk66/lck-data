@@ -31,6 +31,16 @@
     },
     {
         "rank": "4",
+        "name": "Dplus Kia",
+        "win": "6",
+        "lose": "3",
+        "diff": "6",
+        "winRate": "67%",
+        "kda": "3.64",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
+    },
+    {
+        "rank": "4",
         "name": "젠지",
         "win": "6",
         "lose": "3",
@@ -38,16 +48,6 @@
         "winRate": "67%",
         "kda": "4.43",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
-    },
-    {
-        "rank": "5",
-        "name": "Dplus Kia",
-        "win": "5",
-        "lose": "3",
-        "diff": "4",
-        "winRate": "63%",
-        "kda": "3.41",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
     },
     {
         "rank": "6",
@@ -63,10 +63,10 @@
         "rank": "7",
         "name": "BNK 피어엑스",
         "win": "2",
-        "lose": "6",
-        "diff": "-7",
-        "winRate": "25%",
-        "kda": "2.39",
+        "lose": "7",
+        "diff": "-9",
+        "winRate": "22%",
+        "kda": "2.28",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
