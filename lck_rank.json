@@ -1,6 +1,16 @@
 [
     {
         "rank": "1",
+        "name": "한화생명e스포츠",
+        "win": "9",
+        "lose": "1",
+        "diff": "13",
+        "winRate": "90%",
+        "kda": "4.84",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjcy/MDAxNzczNzIzNTc5NDky.9eTdm6BvT2HbggUb-yhcullZlCZ0qRwvyg3nghOspe4g.KwMou1pP17GA6ZH3jHItJtbVcNZbu3WlBSd1JcbKgYYg.PNG/JwLmudFWxphtycEONqXW.png"
+    },
+    {
+        "rank": "2",
         "name": "kt 롤스터",
         "win": "8",
         "lose": "1",
@@ -10,27 +20,7 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
-        "rank": "1",
-        "name": "한화생명e스포츠",
-        "win": "8",
-        "lose": "1",
-        "diff": "12",
-        "winRate": "89%",
-        "kda": "5.13",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjcy/MDAxNzczNzIzNTc5NDky.9eTdm6BvT2HbggUb-yhcullZlCZ0qRwvyg3nghOspe4g.KwMou1pP17GA6ZH3jHItJtbVcNZbu3WlBSd1JcbKgYYg.PNG/JwLmudFWxphtycEONqXW.png"
-    },
-    {
         "rank": "3",
-        "name": "T1",
-        "win": "6",
-        "lose": "3",
-        "diff": "7",
-        "winRate": "67%",
-        "kda": "3.45",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
-    },
-    {
-        "rank": "4",
         "name": "Dplus Kia",
         "win": "6",
         "lose": "3",
@@ -40,7 +30,7 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
     },
     {
-        "rank": "4",
+        "rank": "3",
         "name": "젠지",
         "win": "6",
         "lose": "3",
@@ -48,6 +38,16 @@
         "winRate": "67%",
         "kda": "4.43",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
+    },
+    {
+        "rank": "5",
+        "name": "T1",
+        "win": "6",
+        "lose": "4",
+        "diff": "6",
+        "winRate": "60%",
+        "kda": "3.44",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
         "rank": "6",
