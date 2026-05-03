@@ -13,10 +13,10 @@
         "rank": "2",
         "name": "kt 롤스터",
         "win": "8",
-        "lose": "1",
-        "diff": "12",
-        "winRate": "89%",
-        "kda": "5.37",
+        "lose": "2",
+        "diff": "10",
+        "winRate": "80%",
+        "kda": "4.76",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
@@ -61,6 +61,16 @@
     },
     {
         "rank": "7",
+        "name": "한진 브리온",
+        "win": "3",
+        "lose": "7",
+        "diff": "-6",
+        "winRate": "30%",
+        "kda": "3.14",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
+    },
+    {
+        "rank": "8",
         "name": "KIWOOM DRX",
         "win": "3",
         "lose": "7",
@@ -68,16 +78,6 @@
         "winRate": "30%",
         "kda": "2.57",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
-    },
-    {
-        "rank": "8",
-        "name": "한진 브리온",
-        "win": "2",
-        "lose": "7",
-        "diff": "-8",
-        "winRate": "22%",
-        "kda": "2.86",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
     },
     {
         "rank": "9",
