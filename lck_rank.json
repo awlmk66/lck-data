@@ -2,11 +2,11 @@
     {
         "rank": "1",
         "name": "한화생명e스포츠",
-        "win": "9",
+        "win": "10",
         "lose": "1",
-        "diff": "13",
-        "winRate": "90%",
-        "kda": "4.84",
+        "diff": "15",
+        "winRate": "91%",
+        "kda": "4.91",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjcy/MDAxNzczNzIzNTc5NDky.9eTdm6BvT2HbggUb-yhcullZlCZ0qRwvyg3nghOspe4g.KwMou1pP17GA6ZH3jHItJtbVcNZbu3WlBSd1JcbKgYYg.PNG/JwLmudFWxphtycEONqXW.png"
     },
     {
@@ -93,10 +93,10 @@
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "9",
-        "diff": "-16",
-        "winRate": "10%",
-        "kda": "1.77",
+        "lose": "10",
+        "diff": "-18",
+        "winRate": "9%",
+        "kda": "1.78",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjc3/MDAxNzc0MzEyMjIyNTQ1.AtyLESEVsA58hcAiqC93ek3sT5FVJKzVPx6BBiuUVeIg.zbdKVzDJYFYwAoIEHyjNlg6U0bWjIrD0MCG1taY72_Eg.PNG/AcYPXvvrBijVuYVZOSyl.png"
     }
 ]
