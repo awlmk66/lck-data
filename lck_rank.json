@@ -51,6 +51,16 @@
     },
     {
         "rank": "6",
+        "name": "한진 브리온",
+        "win": "4",
+        "lose": "7",
+        "diff": "-4",
+        "winRate": "36%",
+        "kda": "3.35",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
+    },
+    {
+        "rank": "7",
         "name": "농심 레드포스",
         "win": "4",
         "lose": "7",
@@ -60,27 +70,7 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
-        "rank": "7",
-        "name": "한진 브리온",
-        "win": "3",
-        "lose": "7",
-        "diff": "-6",
-        "winRate": "30%",
-        "kda": "3.14",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
-    },
-    {
         "rank": "8",
-        "name": "BNK 피어엑스",
-        "win": "3",
-        "lose": "7",
-        "diff": "-7",
-        "winRate": "30%",
-        "kda": "2.53",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
-    },
-    {
-        "rank": "9",
         "name": "KIWOOM DRX",
         "win": "3",
         "lose": "7",
@@ -88,6 +78,16 @@
         "winRate": "30%",
         "kda": "2.57",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
+    },
+    {
+        "rank": "9",
+        "name": "BNK 피어엑스",
+        "win": "3",
+        "lose": "8",
+        "diff": "-9",
+        "winRate": "27%",
+        "kda": "2.47",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
         "rank": "10",
