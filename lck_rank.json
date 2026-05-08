@@ -32,11 +32,11 @@
     {
         "rank": "4",
         "name": "T1",
-        "win": "6",
+        "win": "7",
         "lose": "4",
-        "diff": "6",
-        "winRate": "60%",
-        "kda": "3.44",
+        "diff": "8",
+        "winRate": "64%",
+        "kda": "3.73",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
@@ -93,10 +93,10 @@
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "10",
-        "diff": "-18",
-        "winRate": "9%",
-        "kda": "1.78",
+        "lose": "11",
+        "diff": "-20",
+        "winRate": "8%",
+        "kda": "1.68",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjc3/MDAxNzc0MzEyMjIyNTQ1.AtyLESEVsA58hcAiqC93ek3sT5FVJKzVPx6BBiuUVeIg.zbdKVzDJYFYwAoIEHyjNlg6U0bWjIrD0MCG1taY72_Eg.PNG/AcYPXvvrBijVuYVZOSyl.png"
     }
 ]
