@@ -42,11 +42,11 @@
     {
         "rank": "5",
         "name": "Dplus Kia",
-        "win": "6",
+        "win": "7",
         "lose": "6",
-        "diff": "1",
-        "winRate": "50%",
-        "kda": "3.27",
+        "diff": "3",
+        "winRate": "54%",
+        "kda": "3.4",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
     },
     {
@@ -93,10 +93,10 @@
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "11",
-        "diff": "-20",
+        "lose": "12",
+        "diff": "-22",
         "winRate": "8%",
-        "kda": "1.68",
+        "kda": "1.64",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjc3/MDAxNzc0MzEyMjIyNTQ1.AtyLESEVsA58hcAiqC93ek3sT5FVJKzVPx6BBiuUVeIg.zbdKVzDJYFYwAoIEHyjNlg6U0bWjIrD0MCG1taY72_Eg.PNG/AcYPXvvrBijVuYVZOSyl.png"
     }
 ]
