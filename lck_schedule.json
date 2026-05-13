@@ -132,7 +132,7 @@
         "time": "17:00",
         "home": "t1",
         "away": "ns",
-        "homeScore": "0",
+        "homeScore": "2",
         "awayScore": "0"
     },
     {
@@ -141,7 +141,7 @@
         "home": "dns",
         "away": "dk",
         "homeScore": "0",
-        "awayScore": "0"
+        "awayScore": "2"
     },
     {
         "date": "2026.05.14",
