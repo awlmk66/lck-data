@@ -12,11 +12,11 @@
     {
         "rank": "2",
         "name": "젠지",
-        "win": "9",
+        "win": "10",
         "lose": "3",
-        "diff": "11",
-        "winRate": "75%",
-        "kda": "5.0",
+        "diff": "13",
+        "winRate": "77%",
+        "kda": "5.18",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
@@ -63,10 +63,10 @@
         "rank": "7",
         "name": "BNK 피어엑스",
         "win": "4",
-        "lose": "8",
-        "diff": "-7",
-        "winRate": "33%",
-        "kda": "2.69",
+        "lose": "9",
+        "diff": "-9",
+        "winRate": "31%",
+        "kda": "2.56",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
