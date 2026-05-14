@@ -22,11 +22,11 @@
     {
         "rank": "3",
         "name": "kt 롤스터",
-        "win": "9",
+        "win": "10",
         "lose": "3",
-        "diff": "10",
-        "winRate": "75%",
-        "kda": "4.4",
+        "diff": "11",
+        "winRate": "77%",
+        "kda": "4.43",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
@@ -83,10 +83,10 @@
         "rank": "9",
         "name": "KIWOOM DRX",
         "win": "3",
-        "lose": "9",
-        "diff": "-11",
-        "winRate": "25%",
-        "kda": "2.41",
+        "lose": "10",
+        "diff": "-12",
+        "winRate": "23%",
+        "kda": "2.39",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
     },
     {
