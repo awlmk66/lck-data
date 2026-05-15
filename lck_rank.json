@@ -52,11 +52,11 @@
     {
         "rank": "6",
         "name": "한진 브리온",
-        "win": "5",
+        "win": "6",
         "lose": "7",
-        "diff": "-2",
-        "winRate": "42%",
-        "kda": "3.43",
+        "diff": "0",
+        "winRate": "46%",
+        "kda": "3.73",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
     },
     {
@@ -93,10 +93,10 @@
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "12",
-        "diff": "-22",
-        "winRate": "8%",
-        "kda": "1.64",
+        "lose": "13",
+        "diff": "-24",
+        "winRate": "7%",
+        "kda": "1.56",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjc3/MDAxNzc0MzEyMjIyNTQ1.AtyLESEVsA58hcAiqC93ek3sT5FVJKzVPx6BBiuUVeIg.zbdKVzDJYFYwAoIEHyjNlg6U0bWjIrD0MCG1taY72_Eg.PNG/AcYPXvvrBijVuYVZOSyl.png"
     }
 ]
