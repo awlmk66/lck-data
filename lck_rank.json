@@ -62,21 +62,21 @@
     {
         "rank": "7",
         "name": "BNK 피어엑스",
-        "win": "4",
+        "win": "5",
         "lose": "9",
-        "diff": "-9",
-        "winRate": "31%",
-        "kda": "2.56",
+        "diff": "-7",
+        "winRate": "36%",
+        "kda": "2.73",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
         "rank": "8",
         "name": "농심 레드포스",
         "win": "4",
-        "lose": "9",
-        "diff": "-10",
-        "winRate": "31%",
-        "kda": "2.55",
+        "lose": "10",
+        "diff": "-12",
+        "winRate": "28%",
+        "kda": "2.49",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
