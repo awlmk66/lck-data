@@ -12,11 +12,11 @@
     {
         "rank": "2",
         "name": "kt 롤스터",
-        "win": "11",
+        "win": "12",
         "lose": "3",
-        "diff": "12",
-        "winRate": "79%",
-        "kda": "4.32",
+        "diff": "13",
+        "winRate": "80%",
+        "kda": "4.3",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
@@ -71,23 +71,23 @@
     },
     {
         "rank": "8",
-        "name": "농심 레드포스",
-        "win": "4",
-        "lose": "10",
-        "diff": "-12",
-        "winRate": "28%",
-        "kda": "2.49",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
-    },
-    {
-        "rank": "9",
         "name": "KIWOOM DRX",
         "win": "4",
         "lose": "11",
         "diff": "-12",
         "winRate": "27%",
-        "kda": "2.6",
+        "kda": "2.54",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
+    },
+    {
+        "rank": "9",
+        "name": "농심 레드포스",
+        "win": "4",
+        "lose": "11",
+        "diff": "-13",
+        "winRate": "27%",
+        "kda": "2.52",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
         "rank": "10",
