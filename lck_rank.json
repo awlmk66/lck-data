@@ -22,11 +22,11 @@
     {
         "rank": "3",
         "name": "T1",
-        "win": "10",
+        "win": "11",
         "lose": "4",
-        "diff": "13",
-        "winRate": "71%",
-        "kda": "3.76",
+        "diff": "14",
+        "winRate": "73%",
+        "kda": "3.78",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
@@ -71,16 +71,6 @@
     },
     {
         "rank": "8",
-        "name": "KIWOOM DRX",
-        "win": "4",
-        "lose": "10",
-        "diff": "-11",
-        "winRate": "28%",
-        "kda": "2.55",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
-    },
-    {
-        "rank": "9",
         "name": "농심 레드포스",
         "win": "4",
         "lose": "10",
@@ -90,6 +80,16 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
+        "rank": "9",
+        "name": "KIWOOM DRX",
+        "win": "4",
+        "lose": "11",
+        "diff": "-12",
+        "winRate": "27%",
+        "kda": "2.6",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
+    },
+    {
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
@@ -97,6 +97,6 @@
         "diff": "-24",
         "winRate": "7%",
         "kda": "1.56",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjc3/MDAxNzc0MzEyMjIyNTQ1.AtyLESEVsA58hcAiqC93ek3sT5FVJKzVPx6BBiuUVeIg.zbdKVzDJYFYwAoIEHyjNlg6U0bWjIrD0MCG1taY72_Eg.PNG/AcYPXvvrBijVuYVZOSyl.png"
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
