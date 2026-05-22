@@ -72,11 +72,11 @@
     {
         "rank": "8",
         "name": "KIWOOM DRX",
-        "win": "4",
+        "win": "5",
         "lose": "11",
-        "diff": "-12",
-        "winRate": "27%",
-        "kda": "2.54",
+        "diff": "-10",
+        "winRate": "31%",
+        "kda": "2.71",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
     },
     {
@@ -93,10 +93,10 @@
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "13",
-        "diff": "-24",
+        "lose": "14",
+        "diff": "-26",
         "winRate": "7%",
-        "kda": "1.56",
+        "kda": "1.52",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
