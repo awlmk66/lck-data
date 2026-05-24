@@ -11,6 +11,16 @@
     },
     {
         "rank": "2",
+        "name": "젠지",
+        "win": "12",
+        "lose": "4",
+        "diff": "16",
+        "winRate": "75%",
+        "kda": "5.08",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
+    },
+    {
+        "rank": "3",
         "name": "kt 롤스터",
         "win": "12",
         "lose": "4",
@@ -20,7 +30,7 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
-        "rank": "3",
+        "rank": "4",
         "name": "T1",
         "win": "11",
         "lose": "4",
@@ -28,16 +38,6 @@
         "winRate": "73%",
         "kda": "3.78",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
-    },
-    {
-        "rank": "3",
-        "name": "젠지",
-        "win": "11",
-        "lose": "4",
-        "diff": "14",
-        "winRate": "73%",
-        "kda": "5.01",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
         "rank": "5",
@@ -93,10 +93,10 @@
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "14",
-        "diff": "-26",
-        "winRate": "7%",
-        "kda": "1.52",
+        "lose": "15",
+        "diff": "-28",
+        "winRate": "6%",
+        "kda": "1.51",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
