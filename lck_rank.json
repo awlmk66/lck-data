@@ -16,7 +16,7 @@
         "lose": "4",
         "diff": "18",
         "winRate": "77%",
-        "kda": "3.84",
+        "kda": "3.88",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
@@ -36,17 +36,17 @@
         "lose": "5",
         "diff": "9",
         "winRate": "71%",
-        "kda": "3.98",
+        "kda": "3.94",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
         "rank": "5",
         "name": "Dplus Kia",
-        "win": "9",
+        "win": "10",
         "lose": "7",
-        "diff": "3",
-        "winRate": "56%",
-        "kda": "3.26",
+        "diff": "4",
+        "winRate": "59%",
+        "kda": "3.32",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTg5/MDAxNzczNzIzNTQ4OTU3.IqDbNoeYkIoZ62uE3QNLtpAsJ7kzvIyVHQNzWHZIxv4g.5BYs2wMcXuWUHBDVeuhtkyoCa-Z_L07pgoOh0YkXsy4g.PNG/goSxFCShNbStmeJoNCqD.png"
     },
     {
@@ -71,16 +71,6 @@
     },
     {
         "rank": "8",
-        "name": "KIWOOM DRX",
-        "win": "5",
-        "lose": "12",
-        "diff": "-11",
-        "winRate": "28%",
-        "kda": "2.74",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
-    },
-    {
-        "rank": "9",
         "name": "농심 레드포스",
         "win": "5",
         "lose": "12",
@@ -88,6 +78,16 @@
         "winRate": "28%",
         "kda": "2.6",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
+    },
+    {
+        "rank": "9",
+        "name": "KIWOOM DRX",
+        "win": "5",
+        "lose": "13",
+        "diff": "-12",
+        "winRate": "28%",
+        "kda": "2.7",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
     },
     {
         "rank": "10",
