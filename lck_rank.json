@@ -32,11 +32,11 @@
     {
         "rank": "4",
         "name": "kt 롤스터",
-        "win": "12",
+        "win": "13",
         "lose": "5",
-        "diff": "9",
-        "winRate": "71%",
-        "kda": "3.94",
+        "diff": "11",
+        "winRate": "72%",
+        "kda": "4.05",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
@@ -93,10 +93,10 @@
         "rank": "10",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "16",
-        "diff": "-29",
+        "lose": "17",
+        "diff": "-31",
         "winRate": "6%",
-        "kda": "1.6",
+        "kda": "1.63",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
