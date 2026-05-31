@@ -365,20 +365,20 @@
         "home": "ns",
         "away": "dk",
         "homeScore": "0",
-        "awayScore": "1"
+        "awayScore": "2"
     },
     {
         "date": "2026.06.06",
         "time": "17:00",
-        "home": "tbd",
-        "away": "tbd",
+        "home": "dk",
+        "away": "bro",
         "homeScore": "0",
         "awayScore": "0"
     },
     {
         "date": "2026.06.07",
         "time": "17:00",
-        "home": "tbd",
+        "home": "kt",
         "away": "tbd",
         "homeScore": "0",
         "awayScore": "0"
@@ -386,15 +386,15 @@
     {
         "date": "2026.06.12",
         "time": "17:00",
-        "home": "tbd",
-        "away": "tbd",
+        "home": "hle",
+        "away": "t1",
         "homeScore": "0",
         "awayScore": "0"
     },
     {
         "date": "2026.06.13",
         "time": "15:00",
-        "home": "tbd",
+        "home": "gen",
         "away": "tbd",
         "homeScore": "0",
         "awayScore": "0"
