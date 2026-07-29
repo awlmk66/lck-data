@@ -5,7 +5,7 @@
         "home": "drx",
         "away": "ns",
         "homeScore": "0",
-        "awayScore": "0"
+        "awayScore": "2"
     },
     {
         "date": "2026.07.29",
@@ -13,7 +13,7 @@
         "home": "t1",
         "away": "kt",
         "homeScore": "0",
-        "awayScore": "0"
+        "awayScore": "1"
     },
     {
         "date": "2026.07.30",
@@ -76,6 +76,14 @@
         "time": "19:00",
         "home": "kt",
         "away": "hle",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.08.04",
+        "time": "18:00",
+        "home": "samsung telecom",
+        "away": "cj rolster",
         "homeScore": "0",
         "awayScore": "0"
     },
