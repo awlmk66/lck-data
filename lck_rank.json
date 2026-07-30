@@ -51,6 +51,16 @@
     },
     {
         "rank": "1",
+        "name": "BNK 피어엑스",
+        "win": "7",
+        "lose": "12",
+        "diff": "-9",
+        "winRate": "37%",
+        "kda": "2.84",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
+    },
+    {
+        "rank": "2",
         "name": "한진 브리온",
         "win": "6",
         "lose": "12",
@@ -58,16 +68,6 @@
         "winRate": "33%",
         "kda": "3.2",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
-    },
-    {
-        "rank": "2",
-        "name": "BNK 피어엑스",
-        "win": "6",
-        "lose": "12",
-        "diff": "-11",
-        "winRate": "33%",
-        "kda": "2.72",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
         "rank": "3",
@@ -93,10 +93,10 @@
         "rank": "5",
         "name": "DN 수퍼스",
         "win": "1",
-        "lose": "17",
-        "diff": "-31",
-        "winRate": "6%",
-        "kda": "1.63",
+        "lose": "18",
+        "diff": "-33",
+        "winRate": "5%",
+        "kda": "1.6",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
