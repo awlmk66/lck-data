@@ -11,23 +11,23 @@
     },
     {
         "rank": "2",
-        "name": "젠지",
-        "win": "14",
-        "lose": "4",
-        "diff": "19",
-        "winRate": "78%",
-        "kda": "5.39",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
+        "name": "T1",
+        "win": "15",
+        "lose": "5",
+        "diff": "20",
+        "winRate": "75%",
+        "kda": "3.88",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
         "rank": "3",
-        "name": "T1",
+        "name": "젠지",
         "win": "14",
         "lose": "5",
-        "diff": "18",
+        "diff": "17",
         "winRate": "74%",
-        "kda": "3.82",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
+        "kda": "5.18",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
         "rank": "4",
