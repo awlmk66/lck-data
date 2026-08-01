@@ -1,59 +1,11 @@
 [
     {
-        "date": "2026.07.29",
-        "time": "17:00",
-        "home": "drx",
-        "away": "ns",
-        "homeScore": "0",
-        "awayScore": "2"
-    },
-    {
-        "date": "2026.07.29",
-        "time": "19:00",
-        "home": "t1",
-        "away": "kt",
-        "homeScore": "0",
-        "awayScore": "2"
-    },
-    {
-        "date": "2026.07.30",
-        "time": "17:00",
-        "home": "dns",
-        "away": "bnk",
-        "homeScore": "0",
-        "awayScore": "2"
-    },
-    {
-        "date": "2026.07.30",
-        "time": "19:00",
-        "home": "hle",
-        "away": "dk",
-        "homeScore": "1",
-        "awayScore": "2"
-    },
-    {
-        "date": "2026.07.31",
-        "time": "17:00",
-        "home": "gen",
-        "away": "t1",
-        "homeScore": "0",
-        "awayScore": "2"
-    },
-    {
-        "date": "2026.07.31",
-        "time": "19:00",
-        "home": "bro",
-        "away": "drx",
-        "homeScore": "1",
-        "awayScore": "2"
-    },
-    {
         "date": "2026.08.01",
         "time": "17:00",
         "home": "ns",
         "away": "bnk",
-        "homeScore": "0",
-        "awayScore": "0"
+        "homeScore": "2",
+        "awayScore": "1"
     },
     {
         "date": "2026.08.01",
@@ -361,6 +313,70 @@
     },
     {
         "date": "2026.08.30",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.01",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.02",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.03",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.04",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.05",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.06",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.12",
+        "time": "17:00",
+        "home": "tbd",
+        "away": "tbd",
+        "homeScore": "0",
+        "awayScore": "0"
+    },
+    {
+        "date": "2026.09.13",
         "time": "17:00",
         "home": "tbd",
         "away": "tbd",
