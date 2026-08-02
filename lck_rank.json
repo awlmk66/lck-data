@@ -1,16 +1,6 @@
 [
     {
         "rank": "1",
-        "name": "한화생명e스포츠",
-        "win": "15",
-        "lose": "4",
-        "diff": "20",
-        "winRate": "79%",
-        "kda": "4.34",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MTJfMjI3/MDAxNzgzODU3MjY2MTM0.dhmJ5HWXbugQpiT6LBZ9mM13pqZeqq4ZYG95PvI2YxYg.fH-mWmPIMY8nXn0FUxCYM34WZN_Ac-tc8uJxyceYd6wg.PNG/eZUyKwkSXULgzlbQMxrA.png"
-    },
-    {
-        "rank": "2",
         "name": "T1",
         "win": "15",
         "lose": "5",
@@ -20,64 +10,74 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
-        "rank": "3",
-        "name": "젠지",
-        "win": "14",
+        "rank": "2",
+        "name": "한화생명e스포츠",
+        "win": "15",
         "lose": "5",
-        "diff": "17",
-        "winRate": "74%",
-        "kda": "5.18",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
+        "diff": "19",
+        "winRate": "75%",
+        "kda": "4.16",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MTJfMjI3/MDAxNzgzODU3MjY2MTM0.dhmJ5HWXbugQpiT6LBZ9mM13pqZeqq4ZYG95PvI2YxYg.fH-mWmPIMY8nXn0FUxCYM34WZN_Ac-tc8uJxyceYd6wg.PNG/eZUyKwkSXULgzlbQMxrA.png"
+    },
+    {
+        "rank": "3",
+        "name": "kt 롤스터",
+        "win": "15",
+        "lose": "5",
+        "diff": "14",
+        "winRate": "75%",
+        "kda": "4.17",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
         "rank": "4",
-        "name": "kt 롤스터",
+        "name": "젠지",
         "win": "14",
-        "lose": "5",
-        "diff": "13",
-        "winRate": "74%",
-        "kda": "4.11",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
+        "lose": "6",
+        "diff": "15",
+        "winRate": "70%",
+        "kda": "4.98",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
         "rank": "5",
         "name": "Dplus Kia",
-        "win": "12",
+        "win": "13",
         "lose": "7",
-        "diff": "7",
-        "winRate": "63%",
-        "kda": "3.51",
+        "diff": "9",
+        "winRate": "65%",
+        "kda": "3.56",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MjBfNzMg/MDAxNzg0NDc2MzQ4NDI2.Ji_yUu0Zk7ctXv0XoKblES54_tgPXwGgUhd7PlxbFK0g.KASyeELcViNMgVyvRJcbI8mLArQYfgFOTLuDvVoHGA0g.PNG/CPeTQqNlTeigtkDBMerH.png"
     },
     {
         "rank": "1",
         "name": "BNK 피어엑스",
         "win": "7",
-        "lose": "12",
-        "diff": "-9",
-        "winRate": "37%",
-        "kda": "2.84",
+        "lose": "13",
+        "diff": "-10",
+        "winRate": "35%",
+        "kda": "2.87",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
         "rank": "2",
-        "name": "한진 브리온",
-        "win": "6",
+        "name": "농심 레드포스",
+        "win": "7",
         "lose": "13",
-        "diff": "-9",
-        "winRate": "32%",
-        "kda": "3.21",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
+        "diff": "-12",
+        "winRate": "35%",
+        "kda": "2.66",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
         "rank": "3",
-        "name": "농심 레드포스",
+        "name": "한진 브리온",
         "win": "6",
-        "lose": "13",
-        "diff": "-13",
-        "winRate": "32%",
-        "kda": "2.63",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
+        "lose": "14",
+        "diff": "-10",
+        "winRate": "30%",
+        "kda": "3.17",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
     },
     {
         "rank": "4",
@@ -92,11 +92,11 @@
     {
         "rank": "5",
         "name": "DN 수퍼스",
-        "win": "1",
+        "win": "2",
         "lose": "18",
-        "diff": "-33",
-        "winRate": "5%",
-        "kda": "1.6",
+        "diff": "-32",
+        "winRate": "10%",
+        "kda": "1.71",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
