@@ -11,16 +11,6 @@
     },
     {
         "rank": "2",
-        "name": "한화생명e스포츠",
-        "win": "15",
-        "lose": "5",
-        "diff": "19",
-        "winRate": "75%",
-        "kda": "4.16",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MTJfMjI3/MDAxNzgzODU3MjY2MTM0.dhmJ5HWXbugQpiT6LBZ9mM13pqZeqq4ZYG95PvI2YxYg.fH-mWmPIMY8nXn0FUxCYM34WZN_Ac-tc8uJxyceYd6wg.PNG/eZUyKwkSXULgzlbQMxrA.png"
-    },
-    {
-        "rank": "3",
         "name": "kt 롤스터",
         "win": "15",
         "lose": "5",
@@ -30,13 +20,23 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
+        "rank": "3",
+        "name": "한화생명e스포츠",
+        "win": "15",
+        "lose": "6",
+        "diff": "18",
+        "winRate": "71%",
+        "kda": "4.06",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MTJfMjI3/MDAxNzgzODU3MjY2MTM0.dhmJ5HWXbugQpiT6LBZ9mM13pqZeqq4ZYG95PvI2YxYg.fH-mWmPIMY8nXn0FUxCYM34WZN_Ac-tc8uJxyceYd6wg.PNG/eZUyKwkSXULgzlbQMxrA.png"
+    },
+    {
         "rank": "4",
         "name": "젠지",
-        "win": "14",
+        "win": "15",
         "lose": "6",
-        "diff": "15",
-        "winRate": "70%",
-        "kda": "4.98",
+        "diff": "16",
+        "winRate": "71%",
+        "kda": "4.93",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
