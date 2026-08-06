@@ -2,11 +2,11 @@
     {
         "rank": "1",
         "name": "T1",
-        "win": "15",
+        "win": "16",
         "lose": "5",
-        "diff": "20",
-        "winRate": "75%",
-        "kda": "3.88",
+        "diff": "22",
+        "winRate": "76%",
+        "kda": "3.97",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
@@ -43,10 +43,10 @@
         "rank": "5",
         "name": "Dplus Kia",
         "win": "13",
-        "lose": "7",
-        "diff": "9",
-        "winRate": "65%",
-        "kda": "3.56",
+        "lose": "8",
+        "diff": "7",
+        "winRate": "62%",
+        "kda": "3.39",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MjBfNzMg/MDAxNzg0NDc2MzQ4NDI2.Ji_yUu0Zk7ctXv0XoKblES54_tgPXwGgUhd7PlxbFK0g.KASyeELcViNMgVyvRJcbI8mLArQYfgFOTLuDvVoHGA0g.PNG/CPeTQqNlTeigtkDBMerH.png"
     },
     {
