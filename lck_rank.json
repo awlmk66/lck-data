@@ -83,20 +83,20 @@
         "rank": "4",
         "name": "농심 레드포스",
         "win": "7",
-        "lose": "15",
-        "diff": "-15",
-        "winRate": "32%",
-        "kda": "2.65",
+        "lose": "16",
+        "diff": "-16",
+        "winRate": "30%",
+        "kda": "2.64",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
         "rank": "5",
         "name": "DN 수퍼스",
-        "win": "3",
+        "win": "4",
         "lose": "19",
-        "diff": "-32",
-        "winRate": "14%",
-        "kda": "1.74",
+        "diff": "-31",
+        "winRate": "17%",
+        "kda": "1.88",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
