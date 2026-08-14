@@ -63,14 +63,24 @@
         "rank": "2",
         "name": "한진 브리온",
         "win": "8",
-        "lose": "14",
-        "diff": "-7",
-        "winRate": "36%",
-        "kda": "3.31",
+        "lose": "15",
+        "diff": "-9",
+        "winRate": "35%",
+        "kda": "3.24",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMzBfMTU3/MDAxNzc0ODU4NzAyNDc5.FVWEA8oEE51Tyzo21jhzv0T7J553DiNQxWgjHidCRmIg.uiiwl3EPUuALw7W_-ZKSm66cOqFf3niRYgaFAfRZzHQg.PNG/YJMNtDUEHizlgjYWMAbE.png"
     },
     {
         "rank": "3",
+        "name": "농심 레드포스",
+        "win": "8",
+        "lose": "16",
+        "diff": "-14",
+        "winRate": "33%",
+        "kda": "2.69",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
+    },
+    {
+        "rank": "4",
         "name": "KIWOOM DRX",
         "win": "7",
         "lose": "16",
@@ -78,16 +88,6 @@
         "winRate": "30%",
         "kda": "2.73",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfOCAg/MDAxNzc0NDkwNjYyNTQ2.2h0KNNJtT7g5IkHNkHi4WZA8g5sm_6ovRJRX1BlTQ9gg.Alvr_MFBsOuxPhDBsZGyvO3Tp3NgzE1YOn_ZLyWpFaMg.PNG/jJvJIADpUGdYHilKlVjf.png"
-    },
-    {
-        "rank": "4",
-        "name": "농심 레드포스",
-        "win": "7",
-        "lose": "16",
-        "diff": "-16",
-        "winRate": "30%",
-        "kda": "2.64",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
     },
     {
         "rank": "5",
