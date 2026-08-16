@@ -2,32 +2,32 @@
     {
         "rank": "1",
         "name": "젠지",
-        "win": "17",
+        "win": "18",
         "lose": "6",
-        "diff": "20",
-        "winRate": "74%",
-        "kda": "5.03",
+        "diff": "22",
+        "winRate": "75%",
+        "kda": "5.04",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
         "rank": "2",
-        "name": "T1",
-        "win": "16",
+        "name": "한화생명e스포츠",
+        "win": "17",
         "lose": "7",
-        "diff": "20",
-        "winRate": "70%",
-        "kda": "3.86",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
+        "diff": "18",
+        "winRate": "71%",
+        "kda": "3.98",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MTJfMjI3/MDAxNzgzODU3MjY2MTM0.dhmJ5HWXbugQpiT6LBZ9mM13pqZeqq4ZYG95PvI2YxYg.fH-mWmPIMY8nXn0FUxCYM34WZN_Ac-tc8uJxyceYd6wg.PNG/eZUyKwkSXULgzlbQMxrA.png"
     },
     {
         "rank": "3",
-        "name": "한화생명e스포츠",
+        "name": "T1",
         "win": "16",
-        "lose": "7",
-        "diff": "17",
-        "winRate": "70%",
-        "kda": "3.99",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjA3MTJfMjI3/MDAxNzgzODU3MjY2MTM0.dhmJ5HWXbugQpiT6LBZ9mM13pqZeqq4ZYG95PvI2YxYg.fH-mWmPIMY8nXn0FUxCYM34WZN_Ac-tc8uJxyceYd6wg.PNG/eZUyKwkSXULgzlbQMxrA.png"
+        "lose": "8",
+        "diff": "18",
+        "winRate": "67%",
+        "kda": "3.8",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTI0/MDAxNzc0MzE2NTQwOTMy.sD4W1TV6YEDKDROC5eqENCioxO0kVLNxiHiqQ490CnIg.nHRkoW5dIZcZmQc4z8kclbMG9lYBZ0uwdAUmjREEAVsg.PNG/VkiBHqtbvmkZKDqjqCmu.png"
     },
     {
         "rank": "4",
@@ -43,20 +43,20 @@
         "rank": "5",
         "name": "kt 롤스터",
         "win": "15",
-        "lose": "8",
-        "diff": "9",
-        "winRate": "65%",
-        "kda": "3.82",
+        "lose": "9",
+        "diff": "8",
+        "winRate": "63%",
+        "kda": "3.79",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMTM1/MDAxNzc0MzEyMTAxNTI1.tU2Xz64pHrm-d51AhdIn6Il2_hWpVy7YYQvW8sMjvnQg.5J4xJy2rwAeb-wdWl4HYUXwVtKSjfyDhOsNfFqT16nAg.PNG/ALKKqVzGRmOyiGTHSmfs.png"
     },
     {
         "rank": "1",
         "name": "BNK 피어엑스",
         "win": "9",
-        "lose": "14",
-        "diff": "-9",
-        "winRate": "39%",
-        "kda": "3.07",
+        "lose": "15",
+        "diff": "-11",
+        "winRate": "38%",
+        "kda": "2.98",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
@@ -92,11 +92,11 @@
     {
         "rank": "5",
         "name": "DN 수퍼스",
-        "win": "4",
+        "win": "5",
         "lose": "19",
-        "diff": "-31",
-        "winRate": "17%",
-        "kda": "1.88",
+        "diff": "-29",
+        "winRate": "21%",
+        "kda": "2.04",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjA1MTlfMjMz/MDAxNzc5MTYyODY2MTQ4.KRZlY5Op5eD10uSpzxDddY0KXWhZPYWsWZuaMU0G_Qog.NemiQ17_HFqdE_dYX-XjGEDBEF7Z2JyvbWaXrwRqOuEg.PNG/WzLcoLybehRZuVmXjTrI.png"
     }
 ]
