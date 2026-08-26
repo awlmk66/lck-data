@@ -10,7 +10,7 @@
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMjZfMzkg/MDAxNzc0NDkwNjY2NjE1.zDvZThJm_sHxsK8wIZAlAfRk8b1SB1GKv0perWFijyYg.yDnZRcL6eJUjc4IjgERUaj5Cy2Pr4yO_r4B36l0UPRkg.PNG/DBHaqbmQDncktllRKrbc.png"
     },
     {
-        "rank": "1",
+        "rank": "2",
         "name": "한화생명e스포츠",
         "win": "19",
         "lose": "7",
@@ -61,16 +61,6 @@
     },
     {
         "rank": "2",
-        "name": "BNK 피어엑스",
-        "win": "10",
-        "lose": "16",
-        "diff": "-11",
-        "winRate": "39%",
-        "kda": "3.0",
-        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
-    },
-    {
-        "rank": "2",
         "name": "농심 레드포스",
         "win": "10",
         "lose": "16",
@@ -78,6 +68,16 @@
         "winRate": "39%",
         "kda": "2.79",
         "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMTk5/MDAxNzczNzIzNTIzOTY1.1kN8H9ghX8ZImullRRHjU7RkBscSXoow5GvgkuGp8Qsg.F7jheVIbDPlbMNWXdwkVu5q1H6DLFpdDthmQnL5S1k8g.PNG/QoeyPExxiAbWNaNPehsX.png"
+    },
+    {
+        "rank": "3",
+        "name": "BNK 피어엑스",
+        "win": "10",
+        "lose": "16",
+        "diff": "-11",
+        "winRate": "39%",
+        "kda": "3.0",
+        "logo": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfMjA2/MDAxNzczNzIzNTIwODg1.E4xzk8GK_m89gsIyGEYMnrBTTDcuz1ApobZi22PRypkg.IdRBc1yVQgZeuhqHLxbEvsT119H9JdmpJbDeOgrDkTwg.PNG/BduFugEHslpyXsMErfqN.png"
     },
     {
         "rank": "4",
