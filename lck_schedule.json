@@ -36,8 +36,8 @@
         "time": "17:00",
         "home": "gen",
         "away": "hle",
-        "homeScore": "0",
-        "awayScore": "0"
+        "homeScore": "3",
+        "awayScore": "1"
     },
     {
         "date": "2026.09.06",
@@ -50,7 +50,7 @@
     {
         "date": "2026.09.12",
         "time": "14:00",
-        "home": "tbd",
+        "home": "hle",
         "away": "tbd",
         "homeScore": "0",
         "awayScore": "0"
@@ -58,7 +58,7 @@
     {
         "date": "2026.09.13",
         "time": "14:00",
-        "home": "tbd",
+        "home": "gen",
         "away": "tbd",
         "homeScore": "0",
         "awayScore": "0"
