@@ -52,14 +52,14 @@
         "time": "14:00",
         "home": "hle",
         "away": "t1",
-        "homeScore": "0",
-        "awayScore": "0"
+        "homeScore": "3",
+        "awayScore": "1"
     },
     {
         "date": "2026.09.13",
         "time": "14:00",
         "home": "gen",
-        "away": "tbd",
+        "away": "hle",
         "homeScore": "0",
         "awayScore": "0"
     }
